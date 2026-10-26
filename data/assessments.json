@@ -1038,5 +1038,213 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-10-26T18:11:03+08:00"
+  },
+  {
+    "accession": "0000840489-26-000097",
+    "cik": "840489",
+    "company": "FirstCash Holdings, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure for the quarter yet. The quote is in the release and holds 1,101,167 thousand (1,101.167 million), as extracted."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release shows only segment pre-tax operating income, no consolidated operating income line, and there is no 10-Q figure yet."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure for the quarter yet. The quote is in the release and holds 101,152 thousand (101.152 million), as extracted."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure for the quarter yet. The quote is in the release and holds 2.33, as extracted."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Every quote is in the release and holds its number. The 10-Q check is still to come, so this scores the quotes only."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Operating income is empty, but the release gives no consolidated figure for it, so that is not a fault. Revenue, net income, EPS and guidance are all there."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The extract can be used as it stands: quotes are exact and the guidance is stated. The analyst should note that M1's 28% is not in the tables."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1,101.167 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "101.152 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "2.33 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "does not match",
+        "reason": "Release table: pawn loan fees rose 20.9% (267,290 vs 221,088 thousand); total revenue rose 17.7%. With scrap sales added, +42.9%. None is the 28% quoted."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Diluted EPS rose 25.3% on a year ago (2.33 vs 1.86), in line with the 25% claimed. Net income rose 22.2% (101.152 vs 82.807 million)."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Consistent with the trend: revenue grew 17.7% on a year ago and 2.5% on the previous quarter, so double-digit growth is plausible. Operating margin cannot be tested."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue +17.7%, net income +22.2% and diluted EPS +25.3% on a year ago, and net margin up 0.3 points to 9.2%, bear out a positive tone."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1101.167,
+        "this_quarter_from": "release",
+        "year_ago": 935.579,
+        "change_year": 17.7,
+        "previous_quarter": 1074.688,
+        "change_quarter": 2.5
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 101.152,
+        "this_quarter_from": "release",
+        "year_ago": 82.807,
+        "change_year": 22.2,
+        "previous_quarter": 93.467,
+        "change_quarter": 8.2
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 2.33,
+        "this_quarter_from": "release",
+        "year_ago": 1.86,
+        "change_year": 25.3,
+        "previous_quarter": 2.12,
+        "change_quarter": 9.9
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 9.185890968399889,
+        "this_quarter_from": "release",
+        "year_ago": 8.850882715409389,
+        "change_year": 0.3,
+        "previous_quarter": 8.697128841114814,
+        "change_quarter": 0.5
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says pawn revenue grew 28% in the quarter.",
+        "quote": "FirstCash delivered another outstanding quarter of operating results, with third quarter pawn revenue growth of 28%.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Diluted EPS rose 25% on a GAAP basis.",
+        "quote": "Diluted earnings per share for the third quarter increased 25% over the prior-year quarter on a GAAP basis",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management describes the outlook for the rest of 2026 as highly positive.",
+        "quote": "The Company’s outlook for the remainder of 2026 continues to be highly positive with continued double-digit revenue growth and operating margin expansion expected from pawn operations in the fourth quarter.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter outstanding and the outlook highly positive."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-27T06:37:56+08:00"
   }
 ]
