@@ -1662,5 +1662,213 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-29T06:37:56+08:00"
+  },
+  {
+    "accession": "0000840489-26-000097",
+    "cik": "840489",
+    "company": "FirstCash Holdings, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (blocked_by_routine_network). The quote holds the number (1,101,167 thousand = 1,101.167 million); the 10-Q check is still to come."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this empty. The release gives no consolidated operating income line, only segment pre-tax operating income."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (blocked_by_routine_network). The quote holds 101,152 thousand = 101.152 million; the 10-Q check is still to come."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (blocked_by_routine_network). The quote holds 2.33; the 10-Q check is still to come."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three extracted figures have quotes found in the release that hold their numbers. The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Operating income is empty, but the release gives no consolidated line for it. Revenue, net income, EPS and Q4 guidance with its quote are present."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The extract can be used as it stands: figures, quotes, guidance and three claims with exact words. Operating income is absent because the release does not give it."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "1,101.167 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "101.152 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "2.33 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table, not fundamentals: pawn segments' revenue (US, Latin America, UK) rose from 722,061 to 924,779 thousand, +28.1%. Total revenue rose 17.7% (935,579 to 1,101,167) and pawn loan fees alone 20.9%."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release table: diluted EPS 2.33 against 1.86 a year ago, +25.3%, as the claim says. Net income rose 22.2% (101,152 against 82,807 thousand). The 10-Q is not yet read."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "Outlook. Revenue grew 17.7% on a year ago, consistent with double-digit growth. Operating margin cannot be tested: segment pre-tax margin was 26%, equal to last year, and no operating income is filed."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue rose 17.7%, net income 22.2% and diluted EPS 25.3% on a year ago (release tables), which bear out a positive tone."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 1101.167,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 101.152,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 2.33,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 9.185890968399889,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says pawn revenue grew 28% in the quarter.",
+        "quote": "FirstCash delivered another outstanding quarter of operating results, with third quarter pawn revenue growth of 28%.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Diluted EPS rose 25% on a GAAP basis.",
+        "quote": "Diluted earnings per share for the third quarter increased 25% over the prior-year quarter on a GAAP basis",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management describes the outlook for the rest of 2026 as highly positive.",
+        "quote": "The Company’s outlook for the remainder of 2026 continues to be highly positive with continued double-digit revenue growth and operating margin expansion expected from pawn operations in the fourth quarter.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter outstanding and the outlook highly positive."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-30T06:38:18+08:00"
   }
 ]
