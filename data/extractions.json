@@ -303,5 +303,251 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000097/fcfs10222026exhibit991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/840489/000084048926000097/0000840489-26-000097-index.htm",
     "saved_at": "2026-10-26T18:08:33+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year, and the CEO calls it a strong quarter.",
+        "quote": "We had a strong quarter and are now on a half-trillion dollar revenue run rate."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%, driven by demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says AWS investment is working, with revenue growth above 39% in the quarter.",
+        "quote": "Our AWS investment in functionality and infrastructure is working, with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate)"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income was $28.1 billion and the operating margin was 13.9%.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Amazon expects fourth quarter operating income of $28.5 billion to $33.5 billion.",
+        "quote": "Operating income is expected to be between $28.5 billion and $33.5 billion, compared with $25.0 billion in fourth quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses AWS growth, improving retail margins and a record operating margin."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "910329",
+    "company": "MEDIFAST INC",
+    "accession": "0001628280-26-067151",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 72.048,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 72,048 | $ | 89,409"
+      },
+      "operating_income": {
+        "value": -19.358,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (19,358) | (4,081)"
+      },
+      "net_income": {
+        "value": -17.511,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (17,511) | $ | (2,261)"
+      },
+      "diluted_eps": {
+        "value": -1.57,
+        "unit": "USD per share",
+        "quote": "Loss per share - diluted | $ | (1.57) | $ | (0.21)"
+      }
+    },
+    "guidance": {
+      "text": "Medifast expects fourth quarter 2026 revenue of $55 million to $75 million.",
+      "quote": "The company expects fourth quarter 2026 revenue to be in the range of $55 million to $75 million and fourth quarter 2026 income per share to be in the range of $0.00 to $0.25."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue met guidance and coach productivity improved year over year.",
+        "quote": "Revenue came in line with our guidance, and coach productivity improved year-over-year for the fourth consecutive quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the company is on track for profitability in the fourth quarter.",
+        "quote": "we believe we are on track to deliver profitability in the fourth quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The company expects the number of active earning coaches to keep falling to the end of 2026.",
+        "quote": "it expects the number of active earning coaches to continue to decline through the end of 2026"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is upbeat on launches and profitability, but the release reports a loss and expects fewer coaches."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/910329-0001628280-26-067151.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/medq32026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/0001628280-26-067151-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "907242",
+    "company": "MONARCH CASINO & RESORT INC",
+    "accession": "0001171843-26-006863",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 146.265,
+        "unit": "USD millions",
+        "quote": "Net revenues | 146,265 | 142,814"
+      },
+      "operating_income": {
+        "value": 41.275,
+        "unit": "USD millions",
+        "quote": "Income from operations | 41,275 | 38,173"
+      },
+      "net_income": {
+        "value": 32.005,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 32,005 | $ | 31,576"
+      },
+      "diluted_eps": {
+        "value": 1.76,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.76 | $ | 1.69"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the company delivered record quarterly net revenue and adjusted EBITDA.",
+        "quote": "In the third quarter of 2026, Monarch delivered record quarterly net revenue and adjusted EBITDA."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Net revenue rose 2.4% year over year, with growth in casino, food and beverage, and hotel.",
+        "quote": "Net revenue increased 2.4% year-over-year to $146.3 million, reflecting growth in casino, food and beverage, and hotel revenues."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "SG&A expense rose because of higher legal and employee related expenses.",
+        "quote": "The increase in SG&A expenses is primarily the result of an increase in legal and employee related expenses."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports record revenue and adjusted EBITDA and continued capital returns."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/907242-0001171843-26-006863.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/exh_991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/0001171843-26-006863-index.htm",
+    "saved_at": "2026-11-04T06:07:50+08:00"
   }
 ]

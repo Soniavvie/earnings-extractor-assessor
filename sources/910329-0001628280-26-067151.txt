@@ -1,0 +1,143 @@
+Company: MEDIFAST INC (CIK 910329)
+Accession: 0001628280-26-067151
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/medq32026earningsrelease.htm
+Filing: https://www.sec.gov/Archives/edgar/data/910329/000162828026067151/0001628280-26-067151-index.htm
+Saved: 2026-11-04T06:07:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 medq32026earningsrelease.htm EX-99.1
+Medifast Announces Third Quarter 2026 Financial Results
+October 26, 2026
+BALTIMORE – (BUSINESS WIRE) — Medifast (NYSE: MED), the metabolic health and wellness company known for its science-backed comprehensive metabolic health system, Trilivy™, today reported results for the third quarter ended September 30, 2026.
+Third Quarter 2026
+•Revenue: $72.0 million, with revenue per active earning coach of $7,064
+•Independent active earning coaches of 10,200
+•Net loss of $17.5 million (non-GAAP adjusted net loss of $2.1 million)
+•Loss per diluted share ("EPS") of $1.57 (non-GAAP adjusted loss per diluted share of $0.19)
+•Cash, Cash Equivalents, and Investment Securities of $172.5 million with no debt
+Nick Johnson, Medifast's Chief Executive Officer, commented, “The third quarter was about execution. With Trilivy now live, Reset Fuelings in our coaches’ hands, and our new compensation plan and Coach Hub launched, the major pieces of our 3.0 strategy are now in market. Revenue came in line with our guidance, and coach productivity improved year-over-year for the fourth consecutive quarter. Those are the kinds of indicators that have historically come before coach growth and revenue growth.
+“With our launches complete and most of our Catalyst cost program executed, our focus has shifted to delivering returns on our foundational work. Coaches are embracing the new brand, our new compensation plan, our comprehensive metabolic health system--supported by the new Reset Fueling product line, and their conversations with clients are increasingly focused on metabolic health markers like visceral fat, lean mass and protecting and building healthy muscle. With enthusiasm high in the Field, we believe we are on track to deliver profitability in the fourth quarter.”
+Dr. Wayne Scott Andersen, Founder of the Mission, Independent Trilivy Coach, and New York Times best-selling author commented, "More than twenty years ago, I left my critical care practice to build and invest in Medifast because I knew the answer was not treating symptoms downstream. It was moving upstream and creating health. Today my conviction is stronger than it has ever been. The world is facing an unprecedented metabolic health crisis, and medication alone will not solve it. Lasting health requires lasting habits, and that is exactly what we were built to deliver. With nutritionally optimized products continually enhanced by research-backed ingredients that target metabolic health, and the proven power of coaching and our community, no one is better positioned to lead the way. A new generation of highly trained Field leaders, focused on helping others create lasting health, is now investing in this mission with the same belief and commitment that started our movement. We have already impacted more than three million lives and counting. Our greatest impact is still to come.”
+Third Quarter 2026 Results
+Third quarter 2026 revenue decreased 19.4% to $72.0 million from $89.4 million for the third quarter of 2025, primarily driven by a decrease in the number of active earning coaches. The total number of active earning coaches decreased 47.7% to 10,200 compared to 19,500 for the third quarter of 2025, primarily driven by continued pressure with client acquisition reflecting broader challenges in the operating environment, including rapid adoption of GLP-1 medications for weight loss. While the company is actively executing on metabolic health, it expects the number of active earning coaches to continue to decline through the end of 2026. The average revenue per active earning coach was $7,064, compared to $4,585 for the third quarter last year, an
+1
+increase of 54.1% which was driven by the decrease in the number of active earning coaches, facilitated in part by our focus on efficient and more productive coach network structures.
+During the second quarter of 2026, the company began execution on a cost savings project (“Catalyst”) with the majority of its execution taking place this quarter. One of the key initiatives under Catalyst was a restructuring action (“Catalyst Restructuring”) intended to simplify the business and reduce costs by reducing the size and reassessing the geographic locations of the company’s distribution network, streamlining the company’s internal use software, and aligning organization resources with current revenue levels.
+Gross profit decreased 19.5% to $50.0 million from $62.2 million for the third quarter of 2025. The decrease in gross profit was due to lower sales volumes and Catalyst Restructuring charges, partially offset by costs to reformulate the Essential product line in the prior comparable period. The company's gross profit margin was 69.5% for both the current and prior year comparable period, primarily due to 230 basis points attributable to Catalyst Restructuring charges, substantially offset by 220 basis points of costs to reformulate the Essential line in the prior period. Non-GAAP adjusted gross profit, which excludes expenses in connection with the Catalyst Restructuring, decreased 16.9% to $51.7 million and non-GAAP adjusted gross profit margin increased 220 basis points year-over-year to 71.7%.
+Selling, general, and administrative expenses (“SG&A”) increased 4.8% to $69.4 million compared to $66.2 million for the third quarter of 2025. The increase in SG&A was primarily due to a $13.8 million increase for Catalyst Restructuring charges, partially offset by a $6.6 million decrease in coach compensation on lower volume and fewer active earning coaches and a $1.4 million decrease in IT consulting spend. As a percentage of revenue, SG&A increased 22 percentage points year-over-year to 96.3% of revenue, as compared to 74.1% for the third quarter of 2025. The increase in SG&A as a percentage of revenue was primarily due to approximately 19 percentage points of Catalyst Restructuring costs, and 3 percentage points related to our Trilivy Convention for which no convention was held in the comparable year-ago period. Non-GAAP adjusted SG&A, which excludes expenses related to Catalyst Restructuring, decreased 16.0% to $55.6 million and non-GAAP adjusted SG&A as a percentage of revenue increased 310 basis points year-over-year to 77.2%.
+The company's loss from operations for the period was $19.4 million compared to $4.1 million in the prior year comparable period. As a percentage of revenue, loss from operations was 26.9% for the third quarter of 2026 compared to 4.6% in the prior-year comparable period due to the factors described above impacting gross profit and SG&A expenses. Non-GAAP adjusted loss from operations improved by 3.2% to $4.0 million. Non-GAAP adjusted loss from operations as a percentage of revenue was 5.5%, a change of 90 basis points from 4.6% in the year-ago period.
+Other income increased $0.1 million to $1.5 million compared to $1.4 million for the third quarter of 2025. Other income is primarily comprised of interest income on cash, cash equivalents, and investments in both periods.
+Income tax benefit for the period was $0.3 million, an effective rate of 1.8%, as compared to $0.4 million for the third quarter of 2025, an effective rate of 14.9%. Due to the existence of a full valuation allowance against its deferred tax assets recorded as of December 31, 2025, the company calculated income tax expense for the current period based on actual results for the quarter. The company’s income tax provision for the period reflects discrete items, primarily a $0.4 million change in unrecognized tax benefits due to finalization of a state tax examination, partially offset by $0.1 million of state income taxes. Due to the existence of a full valuation allowance against deferred tax assets, the non-GAAP adjustments do not impact the income tax benefit for the period.
+2
+In the third quarter of 2026, the company's net loss was $17.5 million, or $1.57 per share, based on approximately 11.2 million shares of common stock outstanding compared to $2.3 million, or $0.21 per share, based on approximately 11.0 million shares of common stock outstanding in the prior year comparable period. Non-GAAP adjusted net loss was $2.1 million, or $0.19 per diluted share.
+In the third quarter of 2026, the company's adjusted EBITDA, which excludes stock-based compensation and Catalyst charges, was $0.4 million, compared to $0.3 million in the prior year comparable period. The company's adjusted EBITDA excluding interest income was $1.9 million, compared to $1.7 million in the prior year comparable period.
+Capital Allocation and Balance Sheet
+The company’s balance sheet remains strong with cash, cash equivalents and investment securities of $172.5 million and no debt as of September 30, 2026, compared to $167.3 million in cash, cash equivalents and investment securities and no debt at December 31, 2025.
+Outlook
+The company expects fourth quarter 2026 revenue to be in the range of $55 million to $75 million and fourth quarter 2026 income per share to be in the range of $0.00 to $0.25. The company expects full year 2026 revenue to be in the range of $280 million to $300 million and full year 2026 loss per share to range from $1.80 to $2.05. For the full year 2026, on a non-GAAP basis, we expect loss per share between $0.45 and $0.70. We are expecting fourth quarter Adjusted EBITDA excluding interest income to range from $2 million to $6 million. For the full year 2026, we are expecting Adjusted EBITDA excluding interest income to range from $10 million to $14 million.
+Conference Call Information
+The conference call is scheduled for today, Monday, October 26, 2026 at 8:30 a.m. ET. The call will be broadcast live over the Internet, hosted on the Investor Relations section of Medifast’s website at www.MedifastInc.com or directly at https://viavid.webcasts.com/starthere.jsp?ei=1777297&tp_key=e45ccefd73 and will be archived online and available through January 26, 2027. In addition, listeners may dial (201) 389-0879 to join via telephone.
+A telephonic playback will be available from 12:30 p.m. ET, October 26, 2026, through November 2, 2026. Participants can dial (412) 317-6671 and enter passcode 13762848 to hear the playback.
+About Medifast®:
+Medifast (NYSE: MED) is the metabolic health and wellness company known for its science-backed comprehensive metabolic health system, Trilivy™. Designed to help address the challenges of metabolic dysfunction, the company’s holistic approach integrates science-backed plans and products, personal 1:1 coaching, a supportive community, and behavioral science support to develop healthy habits.
+Driven to improve metabolic health through advanced science and comprehensive behavioral support, Medifast has introduced Metabolic Synchronization®, a breakthrough science that targets metabolic dysfunction through a comprehensive system focused on fat loss, lean mass preservation, and long-term health. Trilivy's comprehensive three-part metabolic health system is designed to help people reset their metabolism, refine their health, and renew their lives. By integrating science, coaching, and healthy habits into a single approach, Trilivy helps people look, feel, and live better.
+3
+Backed by more than 45 years of clinical heritage, Medifast continues to advance its mission of lifelong transformation through metabolic science and human connection™. For more information, visit Trilivyhealth.com and Medifastinc.com.
+MED-F
+Forward Looking Statements
+Please Note: This release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements generally can be identified by use of phrases or terminology such as “intend,” “anticipate,” “expect” or other similar words or the negative of such terminology. Similarly, descriptions of Medifast’s objectives, strategies, plans, goals, outlook or targets contained herein are also considered forward-looking statements. These statements are based on the current expectations of the management of Medifast and are subject to certain events, risks, uncertainties and other factors. Some of these factors include, among others, Medifast's inability to maintain and grow the network of independent coaches; industry competition and new weight loss products, including weight loss medications such as GLP-1s, or services; Medifast’s health or advertising related claims by clients; Medifast's inability to continue to develop new products; effectiveness of Medifast's advertising and marketing programs, including use of social media by coaches; effectiveness of the company's strategic pivot towards metabolic health; the departure of one or more key personnel; Medifast's inability to protect against online security risks and cyberattacks; competitors use of artificial intelligence to make their offer more competitive; risks associated with Medifast's direct-to-consumer business model; disruptions in Medifast's supply chain; product liability claims; Medifast's planned growth into domestic markets including through its collaboration with LifeMD, Inc.; adverse publicity associated with Medifast's products; the impact of existing and future laws and regulations on Medifast’s business; fluctuations of Medifast's common stock market price; increases in litigation; actions of activist investors; the consequences of other geopolitical events, overall economic and market conditions and the resulting impact on consumer sentiment and spending patterns; and Medifast's ability to prevent or detect a failure of internal control over financial reporting. Although Medifast believes that the expectations, statements and assumptions reflected in these forward-looking statements are reasonable, it cautions readers to always consider all of the risk factors and any other cautionary statements carefully in evaluating each forward-looking statement in this release, as well as those set forth in its Annual Report on Form 10-K for the fiscal year ended December 31, 2025, and other filings filed with the United States Securities and Exchange Commission, including its quarterly reports on Form 10-Q and current reports on Form 8-K. All of the forward-looking statements contained herein speak only as of the date of this release.
+Investor Contact:
+Medifast, Inc.
+Matt Daryman
+InvestorRelations@medifastinc.com
+1-800-763-9953
+4
+MEDIFAST, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+(U.S. dollars in thousands, except per share amounts)
+Three months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue | $ | 72,048 | $ | 89,409 | $ | 224,476 | $ | 310,692
+Cost of sales | 22,008 | 27,250 | 69,284 | 87,645
+Gross profit | 50,040 | 62,159 | 155,192 | 223,047
+Selling, general, and administrative | 69,398 | 66,240 | 182,172 | 229,457
+Loss from operations | (19,358) | (4,081) | (26,980) | (6,410)
+Other income
+Interest income | 1,508 | 1,426 | 4,233 | 4,096
+Other income (expense) | 15 | (2) | (21) | 3,057
+1,523 | 1,424 | 4,212 | 7,153
+Income (loss) before provision for income taxes | (17,835) | (2,657) | (22,768) | 743
+Benefit for income taxes | (324) | (396) | (35) | 1,296
+Net loss | $ | (17,511) | $ | (2,261) | $ | (22,733) | $ | (553)
+Loss per share - basic | $ | (1.57) | $ | (0.21) | $ | (2.05) | $ | (0.05)
+Loss per share - diluted | $ | (1.57) | $ | (0.21) | $ | (2.05) | $ | (0.05)
+Weighted average shares outstanding
+Basic | 11,181 | 10,991 | 11,108 | 10,977
+Diluted | 11,181 | 10,991 | 11,108 | 10,977
+5
+MEDIFAST, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(U.S. dollars in thousands, except par value)
+September 30, 2026 | December 31, 2025
+ASSETS
+Current Assets
+Cash and cash equivalents | $ | 58,372 | $ | 89,303
+Inventories, net | 21,202 | 20,228
+Investments | 114,162 | 77,970
+Income taxes, prepaid | 4,171 | 5,116
+Prepaid expenses and other current assets | 4,028 | 9,066
+Total current assets | 201,935 | 201,683
+Property, plant and equipment, net of accumulated depreciation | 13,245 | 31,230
+Right-of-use assets | 19,498 | 7,232
+Other assets | 5,085 | 7,828
+TOTAL ASSETS | $ | 239,763 | $ | 247,973
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities
+Accounts payable and accrued expenses | $ | 38,801 | $ | 38,359
+Current lease obligations | 3,075 | 4,603
+Total current liabilities | 41,876 | 42,962
+Lease obligations, net of current lease obligations | 17,610 | 6,091
+Total liabilities | 59,486 | 49,053
+Stockholders' Equity
+Common stock, par value $.001 per share: 20,000 shares authorized;
+11,183 and 10,991 issued and outstanding
+at September 30, 2026 and December 31, 2025, respectively | 11 | 11
+Additional paid-in capital | 45,145 | 40,406
+Accumulated other comprehensive income | (417) | 234
+Retained earnings | 135,538 | 158,269
+Total stockholders' equity | 180,277 | 198,920
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY | $ | 239,763 | $ | 247,973
+6
+Non-GAAP Financial Measures
+In an effort to provide investors with additional information regarding our results as determined by Generally Accepted Accounting Principles ("GAAP"), we disclose various non-GAAP financial measures in this quarterly earnings press release, our quarterly report on Form 10-Q, and other public disclosures. The following GAAP financial measures have been presented on an as-adjusted basis: cost of sales, selling, general and administrative expenses, income (loss) from operations, net income (loss), and diluted earnings (loss) per share. As-adjusted cost of sales, selling general and administrative expenses, income (loss) from operations, net income (loss), and diluted earnings (loss) per share exclude the impact of certain amounts related to our Catalyst Restructuring efforts and have not been calculated in accordance with GAAP. We disclose Adjusted EBITDA, a non-GAAP measure, as a performance measure which excludes recurring items that we do not believe are indicative of our core operating performance: interest income, income tax expense, depreciation and amortization, and stock-based compensation expense, as well as charges related to Catalyst Restructuring in the current period. We disclose Adjusted EBITDA excluding interest income, a non-GAAP measure, as a performance measure which includes the previously noted adjustments to arrive at Adjusted EBITDA with the exception of interest income, as our current cash, cash equivalents and investment securities balance makes interest income a notable performance data point. A reconciliation of each of these non-GAAP financial measures to its most comparable GAAP financial measure is included below. These non-GAAP financial measures are not intended to replace GAAP financial measures.
+We use these non-GAAP financial measures internally to evaluate and manage the company’s operations because we believe they provide useful supplemental information regarding the company’s on-going economic performance. We have chosen to provide this information to investors to enable them to perform more meaningful comparisons of operating results and as a means to emphasize the results of on-going operations.
+The following tables reconcile the non-GAAP financial measures included in this release for the three months ended September 30, 2026 (in thousands):
+MEDIFAST, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED NON-GAAP (UNAUDITED)
+(U.S. dollars in thousands, except per share amounts)
+Three Months Ended September 30, 2026
+GAAP | Restructuring and related charges (Catalyst Restructuring) | Non-GAAP
+Cost of sales | $ | 22,008 | $ | (1,638) | $ | 20,370
+Gross profit | 50,040 | 1,638 | 51,678
+Selling, general, and administrative | 69,398 | (13,768) | 55,630
+Income (loss) from operations | (19,358) | 15,406 | (3,952)
+Other income | 1,523 | — | 1,523
+Benefit for income taxes | (324) | — | (324)
+Net income (loss) | (17,511) | 15,406 | (2,105)
+Diluted earnings (loss) per share (1) | (1.57) | 1.38 | (0.19)
+(1) The weighted-average diluted shares outstanding used in the calculation of these non-GAAP financial measures are the same as the weighted-average shares outstanding used in the calculation of the reported per share amounts.
+7
+Three Months Ended September 30, 2026 | Three Months Ended September 30, 2025
+Reconciliation from Net income to Adjusted EBITDA and Adjusted EBITDA excluding interest income:
+Net loss | $ | (17,511) | $ | (2,261)
+Interest income | (1,508) | (1,426)
+Benefit for income taxes | (324) | (396)
+Depreciation and amortization expense | 4,276 | 3,452
+EBITDA | (15,067) | (631)
+Stock-based compensation expense | 1,850 | 910
+Restructuring and related charges (Catalyst Restructuring), excluding depreciation and stock compensation | 13,579 | —
+Adjusted EBITDA | 362 | 279
+Interest income | 1,508 | 1,426
+Adjusted EBITDA excluding interest income | $ | 1,870 | $ | 1,705
+8

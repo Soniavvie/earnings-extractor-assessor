@@ -1165,5 +1165,80 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-04T06:07:50+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-04-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 24,
+      "total": 24,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 869,
+      "companies": 3,
+      "new": 4,
+      "saved": 4,
+      "no_new": 1,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-26",
+      "end": "2026-11-02",
+      "hits": 1002,
+      "results_filings": 869,
+      "new": 869,
+      "watchlist_new": [
+        "AMAZON COM INC (2026-10-29, 0001018724-26-000038)",
+        "Alphabet Inc. (2026-10-28, 0001652044-26-000080)"
+      ],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "saved",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "910329",
+        "company": "MEDIFAST INC",
+        "status": "saved",
+        "accession": "0001628280-26-067151",
+        "release_date": "2026-10-26",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "907242",
+        "company": "MONARCH CASINO & RESORT INC",
+        "status": "saved",
+        "accession": "0001171843-26-006863",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

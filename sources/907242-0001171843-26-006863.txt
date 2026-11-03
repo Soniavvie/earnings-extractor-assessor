@@ -1,0 +1,166 @@
+Company: MONARCH CASINO & RESORT INC (CIK 907242)
+Accession: 0001171843-26-006863
+Results released: 2026-10-28
+Press release: https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/exh_991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/0001171843-26-006863-index.htm
+Saved: 2026-11-04T06:07:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exh_991.htm PRESS RELEASE
+EXHIBIT 99.1
+Monarch Casino & Resort Reports Record Third Quarter 2026 Financial Results
+Declares Cash Dividend of $0.30 per Share Payable on December 15, 2026
+RENO, Nev., Oct. 27, 2026 (GLOBE NEWSWIRE) -- Monarch Casino & Resort, Inc. (Nasdaq: MCRI) (“Monarch” or “the Company”) today reported operating results for the third quarter ended September 30, 2026, as summarized below:
+($ in thousands, except per share data and percentages)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | Increase | 2026 | 2025 | Increase
+Net revenue | $ | 146,265 | $ | 142,814 | 2.4 | % | $ | 425,412 | $ | 405,122 | 5.0 | %
+Net income | 32,005 | 31,576 | 1.4 | % | 92,120 | 78,448 | 17.4 | %
+Adjusted EBITDA(1) | $ | 56,018 | $ | 54,848 | 2.1 | % | $ | 157,968 | $ | 147,268 | 7.3 | %
+Basic EPS | $ | 1.80 | $ | 1.73 | 4.0 | % | $ | 5.17 | $ | 4.27 | 21.1 | %
+Diluted EPS | $ | 1.76 | $ | 1.69 | 4.1 | % | $ | 5.06 | $ | 4.18 | 21.1 | %
+(1) Definitions, disclosures and reconciliations of non-GAAP financial information are included later in the release.
+CEO Comment
+John Farahi, Co-Chairman and Chief Executive Officer of Monarch, commented: “In the third quarter of 2026, Monarch delivered record quarterly net revenue and adjusted EBITDA. Net revenue increased 2.4% year-over-year to $146.3 million, reflecting growth in casino, food and beverage, and hotel revenues. Quarterly Adjusted EBITDA grew 2.1% compared to the same period last year. The third-quarter 2026 adjusted EBITDA margin remained near record levels at 38.3%. The third quarter net revenue and adjusted EBITDA growth highlights our ability to drive sustained growth from our two properties.
+“We remain focused on delivering market-leading offerings and services, while maintaining operational efficiency. We remain committed to technology and other strategic capital investments that enhance both properties and set the standard for luxury casino resorts in Northern Nevada and Colorado.
+“We continue to return capital to stockholders through share repurchases and dividends. In the third quarter of 2026, we purchased, in open market transactions, 300,859 shares of Monarch common stock for $37 million. In the third quarter of 2026, we also returned $5.3 million to stockholders through our quarterly cash dividend. We ended the quarter with a solid cash position of $137.4 million.”
+Summary of 2026 Third Quarter Operating Results
+In the third quarter of 2026, the Company generated net revenue of $146.3 million compared to $142.8 million in the corresponding prior-year period. Casino revenue increased 3.4%, food and beverage (“F&B”) revenue increased 1.3% and hotel revenue increased 0.9%, compared to the same prior-year period.
+Selling, general and administrative (“SG&A”) expense for the third quarter of 2026 was $29.0 million compared to $27.5 million in the corresponding prior-year period. As a percentage of net revenue, SG&A expense increased to 19.8% from 19.3% in the corresponding prior-year period. The increase in SG&A expenses is primarily the result of an increase in legal and employee related expenses. Casino operating expense as a percentage of casino revenue was unchanged at 35.8% during the third quarter of 2026 compared to the corresponding prior-year period. During the third quarter of 2026, F&B operating expense as a percentage of F&B revenue decreased slightly to 69.6% from 69.9% in the corresponding prior-year period due to an increase in revenue per cover. Hotel operating expense as a percentage of hotel revenue decreased slightly to 31.3% in the third quarter of 2026 compared to 31.4% in the corresponding prior-year period, primarily due to an increase in Average Daily Rate and a decrease in operating expenses per occupied room.
+Net income for the third quarter of 2026 increased 1.4% and diluted EPS increased 4.1% compared to the corresponding prior-year period. The Company generated consolidated Adjusted EBITDA of $56.0 million in the third quarter of 2026, which represents a $1.2 million, or 2.1% increase, compared to the same prior-year period.
+Credit Facility and Liquidity
+As of September 30, 2026, the Company had cash and cash equivalents of $137.4 million and no borrowings against its credit facility.
+Capital expenditures of $9.7 million in the third quarter of 2026 were funded from operating cash flow and included costs related to ongoing maintenance capital projects, costs related to the purchase of new gaming equipment at both properties and purchase of land with a building adjacent to Atlantis.
+On September 15, 2026, the Company paid a cash dividend of $0.30 per share to its stockholders of record as of September 1, 2026 for a total of $5.3 million. The cash dividend was funded from operating cash flow.
+In the third quarter of 2026, the Company purchased in the open market, under its share repurchase plan, 300,859 shares of its common stock, for $37 million. The purchases were funded from operating cash flow. As of September 30, 2026, the Company has 670,644 shares remaining of the 3,000,000 shares originally authorized for repurchase by the Board.
+Monarch believes its strong balance sheet and free cash flow favorably position the Company to continue investing in its properties, share repurchases and paying cash dividends. The Company continues to diligently evaluate potential M&A transactions, which, it believes, if completed, could drive additional long-term value for stockholders.
+Quarterly Dividend Declaration
+The Company today announced a cash dividend of $0.30 per share of its outstanding common stock. The dividend is payable on December 15, 2026 to stockholders of record as of December 1, 2026. This cash dividend is part of the previously announced annual cash dividend of $1.20 per share payable in quarterly payments and subject to quarterly review and evaluation by the Company’s Board of Directors.
+Forward Looking Statements
+This press release contains forward-looking statements within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by words such as "plan," "believe," "expect," "seem," "look," "look forward," "positioning," "future," "will," "confident" and similar references to future periods. Example of forward-looking statements include, among others, statements we make regarding: (i) the continuing strength of our balance sheet and our expected free cash flow; (ii) our expectations regarding continuing our dividend payments in the future; (iii) our expectations regarding the cash flow we expect to generate to fund our cash dividends to stockholders; and, (iv) our beliefs regarding the impact of our capital investment strategy and evaluation of potential strategic transactions on our long term success. Actual results and future events and conditions may differ materially from those described in any forward-looking statements. Therefore, you should not rely on any of these forward-looking statements. Important factors that could cause actual results to differ materially from estimates or projections contained in the forward-looking statements include, without limitation:
+adverse impacts of outbreaks of contagious diseases on our business, financial condition and operating results;
+actions taken by government officials at the federal, state and/or local level with respect to the containment of disease outbreaks, including, without limitation, temporary or extended shutdowns, travel restrictions, social distancing and shelter-in-place orders;
+our ability to manage guest safety concerns in connection with an outbreak of contagious diseases;
+our ability to maintain compliance with the terms and conditions of our credit facilities and other material contracts in the event of any unexpected or unplanned events, such as temporary or extended shutdowns;
+access to available and reasonable financing on a timely basis;
+our ability to maintain strong working relationships with our regulators, employees, lenders, suppliers, insurance carriers, customers, and other stakeholders;
+impacts of any uninsured losses;
+changes in guest visitation or spending patterns due to economic conditions, inflation, reductions in discretionary income, health, international relations or other concerns;
+construction factors, including delays, disruptions, availability of labor and materials, increased costs of labor and materials, contractor disagreements, zoning issues, environmental restrictions, soil and water conditions, weather and other hazards, site access matters, building permit issues and other regulatory approvals or issues;
+ongoing disagreements over costs of and responsibility for delays and other construction related matters with our general contractor at Monarch Casino Resort Spa Black Hawk, PCL Construction Services, Inc. (“PCL”), including, as previously reported, the litigation against us by such contractor;
+the judgment entered in PCL’s favor and against Monarch in the above-mentioned litigation in the amount of $74,627,657 (the “Judgment”), in Case No. 2019cv33368 in the District Court for the State of Colorado, City and County of Denver (the “Court”), including the outcome of any post-judgment motions filed by PCL in the Court for further release;
+the outcome of our appeal of the Judgment;
+our potential need to post other bonds or other forms of surety to support our legal remedies;
+risks related to development and construction activities (including disputes with and defaults by contractors and subcontractors, construction, equipment or staffing problems and delays, shortages of materials or skilled labor, environmental, health and safety issues, weather and other hazards, site access matters, and unanticipated cost increases);
+our ability to generate sufficient operating cash flow to help finance our expansion plans;
+changes in laws mandating increases in minimum wages and employee benefits;
+changes in laws and regulations permitting expanded and other forms of gaming in our key markets;
+the effects of local and national economic, credit and capital market conditions on the economy in general and on the gaming industry and our business in particular, including predictions for a potential recession;
+the effects of labor shortages on our market position, growth and financial results;
+the potential of increases in local, state and federal taxation;
+the potential of increased regulatory and other burdens;
+guest acceptance of our expanded facilities and the resulting impact on our market position, growth and financial results;
+competition in our target market areas;
+the impact of the recently enacted tariffs on our business, including the potential increase in our operating costs;
+broad-based inflation, including wage inflation and increased travel costs; and
+the impact of the conflicts taking place in Ukraine, Israel, Iran, other areas of the Middle East and other parts of the world.
+Additional information concerning potential factors that could adversely affect all forward-looking statements, including the Company's financial results, is included in our Securities and Exchange Commission filings, including our most recent annual report on Form 10-K and quarterly reports on Form 10-Q, which are available on our website at www.monarchcasino.com.
+About Monarch Casino & Resort, Inc.
+Monarch Casino & Resort, Inc., through its subsidiaries, owns and operates the Monarch Casino Resort Spa ("Monarch Black Hawk") in Black Hawk, Colorado, approximately 40 miles west of Denver and the Atlantis Casino Resort Spa ("Atlantis"), a hotel/casino facility in Reno, Nevada. For additional information on Monarch, visit the Company's website at www.monarchcasino.com.
+Atlantis features 817 guest rooms and suites, and approximately 61,000 square feet of casino space. The casino features approximately 1,200 slot and video poker machines; approximately 30 table games, including blackjack, craps, roulette, and others; a race and sports book; a 24-hour live keno lounge; and a poker room. It also includes eight food outlets; two gourmet coffee and pastry bars; a retail store; a 30,000 square foot health spa and salon with an enclosed year-round pool; an 8,000 square-foot family entertainment center; and approximately 52,000 square feet of banquet, convention and meeting room space.
+Monarch Black Hawk features 516 guest rooms and suites, and approximately 60,000 square feet of casino space. The resort offers approximately 1,100 slot machines; 37 table games; a poker room; keno; and a sports book. It also includes 10 bars and lounges, as well as four dining options: a twenty-four-hour full-service restaurant, a buffet-style restaurant, the Monarch Chophouse (a fine-dining steakhouse), and Bistro Mariposa (elevated Southwest cuisine), banquet and meeting room space, a retail store, a concierge lounge and an upscale spa and enclosed year-round pool located on the top floor of the tower. The resort is connected to a nine-story parking structure with approximately 1,350 parking spaces, and additional valet parking, with total property capacity of approximately 1,500 spaces.
+Contacts:
+John Farahi
+Chief Executive Officer
+775/824-4401 or JFarahi@monarchcasino.com
+Joseph Jaffoni, Christin Armacost
+JCIR
+212/835-8500 or mcri@jcir.com
+MONARCH CASINO & RESORT, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+(In thousands, except per share data, unaudited)
+Three months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues
+Casino | $ | 82,836 | $ | 80,130 | $ | 244,122 | $ | 232,614
+Food and beverage | 34,267 | 33,842 | 99,147 | 96,055
+Hotel | 22,687 | 22,494 | 63,228 | 58,312
+Other | 6,475 | 6,348 | 18,915 | 18,141
+Net revenues | 146,265 | 142,814 | 425,412 | 405,122
+Operating expenses
+Casino | 29,672 | 28,688 | 87,325 | 84,654
+Food and beverage | 23,839 | 23,655 | 71,065 | 68,600
+Hotel | 7,108 | 7,070 | 20,850 | 19,922
+Other | 3,256 | 3,123 | 9,588 | 9,274
+Selling, general and administrative | 28,996 | 27,508 | 85,314 | 81,484
+Depreciation and amortization | 10,816 | 14,056 | 31,947 | 40,842
+Other operating Items, net | 1,303 | 541 | 4,479 | 1,956
+Total operating expenses | 104,990 | 104,641 | 310,568 | 306,732
+Income from operations | 41,275 | 38,173 | 114,844 | 98,390
+Interest income, net | 829 | 575 | 2,169 | 1,283
+Income before income taxes | 42,104 | 38,748 | 117,013 | 99,673
+Provision for income taxes | (10,099 | ) | (7,172 | ) | (24,893 | ) | (21,225 | )
+Net income | $ | 32,005 | $ | 31,576 | $ | 92,120 | $ | 78,448
+Earnings per share of common stock
+Basic | $ | 1.80 | $ | 1.73 | $ | 5.17 | $ | 4.27
+Diluted | $ | 1.76 | $ | 1.69 | $ | 5.06 | $ | 4.18
+Weighted average number of common shares and potential common shares outstanding
+Basic | 17,776 | 18,297 | 17,830 | 18,376
+Diluted | 18,148 | 18,736 | 18,215 | 18,752
+MONARCH CASINO & RESORT, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEET
+(In thousands, except per share data)
+September 30, 2026 | December 31, 2025
+ASSETS | (unaudited)
+Current assets
+Cash and cash equivalents | $ | 137,407 | $ | 96,468
+Receivables, net of provision for credit losses | 9,093 | 11,067
+Income taxes receivable | 2,861 | 3,013
+Inventories | 7,946 | 9,089
+Prepaid expenses and other | 8,749 | 9,616
+Total current assets | 166,056 | 129,253
+Property and equipment, net | 542,997 | 556,668
+Goodwill | 25,111 | 25,111
+Intangible and other assets, net | 1,892 | 1,817
+Total assets | $ | 736,056 | $ | 712,849
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities
+Accounts payable | $ | 44,441 | $ | 44,924
+Construction accounts payable | 47,547 | 50,209
+Accrued expenses | 49,296 | 54,049
+Short-term lease liability | 961 | 1,019
+Total current liabilities | 142,245 | 150,201
+Deferred income taxes | 11,626 | 11,626
+Long-term lease liability | 11,638 | 12,279
+Other long-term liabilities | 1,073 | 1,073
+Total liabilities | 166,582 | 175,179
+Stockholders' equity
+Preferred stock, $.01 par value, 10,000,000 shares authorized; none issued | - | -
+Common stock, $.01 par value, 30,000,000 shares authorized;
+19,843,372 shares issued and 17,635,985 outstanding at September 30, 2026
+19,544,290 shares issued and 17,819,020 outstanding at December 31, 2025 | 198 | 195
+Additional paid-in capital | 86,654 | 76,038
+Treasury stock, 2,207,387 shares at September 30, 2026 and 1,725,270 shares at December 31, 2025 | (191,317 | ) | (136,411 | )
+Retained earnings | 673,939 | 597,848
+Total stockholders' equity | 569,474 | 537,670
+Total liabilities and stockholders' equity | $ | 736,056 | $ | 712,849
+MONARCH CASINO & RESORT, INC. AND SUBSIDIARIES
+RECONCILIATION OF ADJUSTED EBITDA TO NET INCOME
+(In thousands, unaudited)
+The following table sets forth a reconciliation of Adjusted EBITDA, a non-GAAP financial measure, to net income, a GAAP financial measure:
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net income | $ | 32,005 | $ | 31,576 | $ | 92,120 | $ | 78,448
+Expenses:
+Stock-based compensation | 2,624 | 2,078 | 6,698 | 6,080
+Depreciation and amortization | 10,816 | 14,056 | 31,947 | 40,842
+Provision for income taxes | 10,099 | 7,172 | 24,893 | 21,225
+Interest income, net | (829 | ) | (575 | ) | (2,169 | ) | (1,283 | )
+Construction litigation expenses (2) | 152 | 517 | 929 | 1,880
+Principal judgment on construction litigation accrual (2) | 1,129 | - | 3,349 | -
+Other litigation expense accrual (2) | - | - | 163 | -
+Lobbying expense to oppose the expansion of iGaming (2) | 5 | 3 | 181 | 53
+Loss (gain) on disposition of assets (2) | 17 | 21 | (143 | ) | 23
+Adjusted EBITDA (1) | $ | 56,018 | $ | 54,848 | $ | 157,968 | $ | 147,268
+(1) Adjusted EBITDA, a non-GAAP financial measure, consists of net income plus loss (gain) on disposal of assets, provision for income taxes, stock-based compensation expense, other one-time charges, construction litigation expenses, acquisition expenses, interest expense, depreciation and amortization less interest income, any benefit for income taxes and gain on disposal of assets. Adjusted EBITDA should not be construed as an alternative to operating income (as determined in accordance with US Generally Accepted Accounting Principles), as an indicator of the Company's operating performance, as an alternative to cash flows from operating activities (as determined in accordance with US GAAP) or as a measure of liquidity. This measure enables comparison of the Company's performance over multiple periods, as well as against the performance of other companies in our industry that report Adjusted EBITDA, although some companies do not calculate this measure in the same manner and, therefore, the measure as presented may not be comparable to similarly titled measures presented by other companies.
+(2) Amount included in the "Other operating items, net" in the Consolidated Statement of Income.
