@@ -1,0 +1,194 @@
+Company: Fusemachines Inc. (CIK 2033383)
+Accession: 0001493152-26-049725
+Results released: 2026-11-03
+Press release: https://www.sec.gov/Archives/edgar/data/2033383/000149315226049725/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2033383/000149315226049725/0001493152-26-049725-index.htm
+Saved: 2026-11-11T06:14:58+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+Fusemachines Reports Revenue Growth and Operating Loss Improvements in Q3 2026 Results
+Adjusted EBITDA (non-GAAP) improves 39.2%, revenue grows 2.8%, and GAAP operating loss improves 14.0% quarter-over-quarter
+NEW YORK, November 3, 2026 — Fusemachines Inc. (Nasdaq: FUSE) (“Fusemachines” or the “Company”), a leading provider of enterprise AI products and services, today announced its financial results for the third quarter ended September 30, 2026, reporting significant improvements in operating performance, continued quarter-over-quarter revenue growth, and a strengthened stockholders’ equity position.
+The Company’s GAAP loss from operations improved 14.0% to $2.3 million, while revenue increased 2.8% to $1.85 million. Its GAAP net loss was $4.6 million, compared with $2.8 million in the second quarter of 2026, and included a $2.2 million non-cash charge associated with the change in the fair value of its forward purchase derivative liability. The Company also reported a 39.2% quarter-over-quarter improvement in Adjusted EBITDA, a non-GAAP financial measure, with its Adjusted EBITDA loss narrowing to $1.4 million from $2.3 million in the second quarter of 2026.
+These improvements reflect the impact of the Company’s cost-reduction initiatives which have lowered operating expenses without affecting continued revenue growth. The Company also improved stockholders’ equity by $9.1 million during the quarter, reducing its stockholders’ deficit by 52.7%, primarily as a result of forward purchase agreement transactions, and shares issued to settle vendor invoices and employee obligations. The Company continues to have a stockholders’ deficit and negative operating cash flow, and its financial statements disclose substantial doubt about its ability to continue as a going concern.
+“Our 39.2% quarter-over-quarter improvement in our Adjusted EBITDA demonstrates the meaningful progress we are making in improving the financial and operational performance of Fusemachines,” said Sameer Maskey, Founder and Chief Executive Officer of Fusemachines. “Our cost-reduction initiatives are delivering measurable results, allowing us to significantly reduce operating losses while continuing to grow revenue. We remain focused on building a more efficient operating structure, strengthening our financial position, and advancing our enterprise AI business.”
+Third Quarter 2026 Financial Highlights
+● | Adjusted EBITDA (non-GAAP) improved 39.2% quarter-over-quarter, with the non-GAAP loss narrowing to $1.4 million compared with $2.3 million in Q2 2026, an improvement of $0.9 million.
+● | GAAP net loss was $4.6 million, or $.15 per basic and diluted share, compared with $2.8 million, or $.10 per basic and diluted share, in Q2 2026, including a $2.2 million non-cash loss associated with the change in fair value of the forward purchase derivative liability.
+● | GAAP loss from operations improved 14.0%, narrowing to $2.3 million compared with $2.7 million in the prior quarter.
+● | Revenue increased 2.8% quarter-over-quarter to $1.85 million compared with $1.79 million in the prior quarter.
+● | Total operating expenses declined 9.8% to $3.3 million from $3.7 million in Q2 2026.
+● | Combined cost of revenue and operating expenses declined 7.2% to $4.2 million from $4.5 million, demonstrating improved overall cost efficiency.
+● | Stockholders’ equity improved by $9.1 million, reducing the stockholders’ deficit from $17.4 million at June 30, 2026, to $8.2 million at September 30, 2026, primarily as a result of forward purchase agreement transactions and share issuances for payables and accrued wages.
+Improving Operational Efficiency While Growing Revenue
+During the third quarter, Fusemachines continued executing cost-reduction initiatives designed to improve operating efficiency while supporting the growth of its enterprise AI business.
+Total operating expenses declined 9.8% sequentially, with general and administrative expenses decreasing 10.9% and selling and marketing expenses declining 7.0%. Combined cost of revenue and operating expenses fell 7.2% compared with the prior quarter.
+Despite these expense reductions, quarterly revenue increased to $1.85 million from $1.79 million, representing 2.8% sequential growth.
+The combination of higher revenue and lower operating expenses contributed to a 14.0% improvement in GAAP operating loss and a 39.2% improvement in Adjusted EBITDA, highlighting the effectiveness of the Company’s ongoing operational restructuring and cost-management efforts.
+Non-GAAP Financial Measures
+This press release includes Adjusted EBITDA, a non-GAAP financial measure. Fusemachines defines Adjusted EBITDA as net loss before interest expense, income taxes, depreciation and amortization, adjusted for stock-based compensation, including restricted stock units, changes in fair value, gains or losses on extinguishment of debt and payables, and severance expense.
+Management uses Adjusted EBITDA to evaluate the Company’s operating performance and the results of its cost-reduction initiatives, and believes it provides investors with useful supplemental information for comparing operating performance across periods. Management excludes interest expense, income taxes, and depreciation and amortization because these items relate to the Company’s capital structure, tax position and historical investments rather than its current operations. Management excludes stock-based compensation, including restricted stock unit expense, because it is a non-cash expense. Management excludes changes in fair value, including the change in fair value of the forward purchase derivative liability, and gains on extinguishment of payables, because these items are non-cash, result from financing and settlement transactions or changes in the Company’s stock price, and are not indicative of operating results. Management excludes severance expense incurred in connection with the Company’s cost-reduction initiatives because it does not reflect ongoing operating costs.
+Adjusted EBITDA is not calculated in accordance with GAAP and should not be considered a substitute for GAAP net loss, operating cash flow, or other GAAP measures. Other companies may calculate similarly titled measures differently.
+About Fusemachines
+Founded in 2013, Fusemachines is a global provider of enterprise AI products and services, on a mission to democratize AI. Leveraging proprietary AI Studio, AI Engines and AI Agents, the Company helps drive clients’ AI Enterprise Transformation, regardless of where they are in their Digital AI journeys. With offices in North America, Asia and Latin America, Fusemachines provides a suite of enterprise AI offerings and specialty services that allow organizations of any size to implement and scale AI.
+Fusemachines continues to actively pursue the mission of democratizing AI by providing high-quality AI education in underserved communities and helping organizations achieve their full potential with AI.
+To learn about Fusemachines,visit www.fusemachines.com
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of applicable securities laws that involve substantial risks and uncertainties. Any statements, other than statements of historical fact included in this press release, are forward-looking statements, including statements concerning the Company’s business strategy, operational efficiency, cost-management initiatives, future growth, financial position, financing plans, and efforts to maintain its Nasdaq listing. Forward-looking statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied.
+These risks include, among others, the Company’s ability to obtain additional financing, manage liquidity, continue as a going concern, sustain operating cost reductions, retain and attract customers, commercialize its AI offerings, strengthen stockholders’ equity, and maintain compliance with applicable Nasdaq listing requirements; the impact of changes in the fair value of the forward purchase derivative liability; and dilution from equity issuances. Additional risks and uncertainties are described under the heading “Risk Factors” in the Company’s most recent Annual Report on Form 10-K and in subsequent filings with the U.S. Securities and Exchange Commission, including its Quarterly Reports on Form 10-Q, which are available on the SEC’s website at www.sec.gov.
+You should not place undue reliance on forward-looking statements, which speak only as of the date of this release. Except as required by applicable law, Fusemachines undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+Media Contact:
+pr@fusemachines.com
+Investor Contact:
+ir@fusemachines.com
++1 347 212-5075
+Fusemachines Inc. and Subsidiaries
+Condensed Consolidated Interim Balance Sheets
+(all amounts in USD, in thousands, except number of shares and per share data)
+September 30, 2026 | December 31, 2025
+(Unaudited)
+Assets
+Current assets:
+Cash and cash equivalents | 1,454 | 4,221
+Accounts receivable, net | 1,400 | 1,264
+Unbilled revenue | 16 | 16
+Prepaid expenses and other current assets | 575 | 753
+Customer incentive asset, current | 193 | -
+Total current assets | 3,638 | 6,254
+Property and equipment, net | 244 | 305
+Customer incentive asset, non-current | 364 | -
+Intangible assets, net | 259 | 206
+Deferred tax assets | 11 | 11
+Operating lease right-of-use assets | 482 | 744
+Other assets | 11 | 16
+Total assets | 5,009 | 7,536
+Liabilities and stockholders’ deficit
+Current liabilities:
+Accounts payable | 4,527 | 5,012
+Accrued expenses and other current liabilities | 4,734 | 4,618
+Convertible notes payable, current | 1,245 | -
+Related party loan payable, current | 300 | 300
+Forward purchase derivative liability | 708 | 9,692
+Operating lease liability, current | 45 | 85
+Short term debt | 64 | 342
+Cumulative mandatorily redeemable common and preferred stock liability, current | 1,063
+Total current liabilities | 12,686 | 20,049
+Accounts payable non-current | - | 143
+Warrant liability | 30 | 121
+Cumulative mandatorily redeemable common and preferred stock liability, non-current | - | 1,048
+Operating lease liability | 508 | 751
+Total liabilities | 13,224 | 22,112
+Commitments and Contingencies
+Stockholder’s deficit:
+Convertible preferred stock ($0.0001 par value, 5,000,000 shares authorized as of September 30, 2026 and December 31, 2025, respectively; Nil shares issued as of September 30, 2026 and December 31, 2025, respectively; Nil shares outstanding as of September 30, 2026 and December 31, 2025) | - | -
+Common stock ($0.0001 par value, 500,000,000 shares authorized as of September 30, 2026 and December 31, 2025; 32,424,711 shares and 28,938,266 shares issued and outstanding as of September 30,2026 and December 31, 2025, respectively) | 4 | 3
+Additional paid in capital | 35,821 | 31,311
+Share subscription receivable | (738 | ) | (11,005 | )
+Accumulated deficit | (43,573 | ) | (35,145 | )
+Accumulated other comprehensive income | 271 | 260
+Total stockholders’ deficit | (8,215 | ) | (14,576 | )
+Total liabilities and stockholders’ deficit | 5,009 | 7,536
+The accompanying notes are an integral part of these condensed consolidated interim financial statements.
+Fusemachines Inc. and Subsidiaries
+Condensed Consolidated Interim Statements of Operations and Comprehensive Loss
+(all amounts in USD, in thousands, except number of shares and per share data)
+Three Months ended, September 30 | Nine Months ended, September 30
+2026 | 2025 | 2026 | 2025
+(Unaudited) | (Unaudited)
+Revenue | 1,845 | 1,792 | 5,518 | 5,779
+Cost of revenue | (864 | ) | (796 | ) | (2,626 | ) | (2,488 | )
+Gross Profit | 981 | 996 | 2,892 | 3,291
+Operating expenses:
+Selling and marketing | 356 | 293 | 1,151 | 934
+General and administrative | 2,653 | 1,632 | 8,904 | 5,131
+Research and development | 286 | 165 | 876 | 489
+Total operating expenses | 3,295 | 2,090 | 10,931 | 6,554
+Loss from operations | (2,314 | ) | (1,094 | ) | (8,039 | ) | (3,263 | )
+Other (expense) income:
+Interest expense | (353 | ) | (74 | ) | (459 | ) | (213 | )
+Loss on extinguishment of convertible notes payable | - | - | - | (391 | )
+Gain on extinguishment of payable | 105 | - | 612 | -
+Gain/(loss) on change in fair value of convertible notes and warrant liability | 42 | (61 | ) | 91 | (1,405 | )
+Loss on change in fair value of forward purchase derivative liability | (2,212 | ) | - | (604 | ) | -
+Other (expense) income | 109 | 55 | 59 | 59
+Total other (expense)/income, net | (2,309 | ) | (80 | ) | (301 | ) | (1,950 | )
+Loss before income taxes | (4,623 | ) | (1,174 | ) | (8,340 | ) | (5,213 | )
+Provision for income tax | - | - | (4 | ) | -
+Net loss | (4,623 | ) | (1,174 | ) | (8,344 | ) | (5,213 | )
+Deemed dividend related to Shortfall Warrants modification | (84 | ) | -
+Net loss attributable to common stockholders (i) | (4,623 | ) | (1,174 | ) | (8,428 | ) | (5,213 | )
+Weighted-average common shares outstanding - basic and diluted (ii) | 30,586,609 | 7,672,654 | 29,502,942 | 7,406,332
+Net loss per common share - basic and diluted (i/ii) | (0.15 | ) | (0.15 | ) | (0.29 | ) | (0.70 | )
+Other Comprehensive income (loss)
+Net loss | (4,623 | ) | (1,174 | ) | (8,344 | ) | (5,213 | )
+Change in foreign currency translation adjustment | 2 | 8 | 11 | 8
+Total comprehensive loss | (4,621 | ) | (1,166 | ) | (8,333 | ) | (5,205 | )
+The accompanying notes are an integral part of these condensed consolidated interim financial statements.
+Fusemachines Inc. and Subsidiaries
+Condensed Consolidated Interim Statements of Cash Flows
+(all amounts in USD, in thousands)
+Nine months ended September 30,
+2026 | 2025
+(Unaudited)
+Cash flows from operating activities
+Net Loss | (8,344 | ) | (5,213 | )
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation of property and equipment | 74 | 73
+Amortization of intangible asset | 103 | 66
+Amortization of customer incentive asset | 22 | -
+Provision for credit losses | - | 46
+Stock-based compensation | 1,309 | 176
+Amortization of right-of-use assets | 215 | 65
+Amortization of convertible note discount | 294 | -
+Changes in fair value of convertible notes at fair value and warrant liability | (91 | ) | 1,405
+Change in fair value of forward purchase derivative liability | 604 | -
+Accretion of cumulative mandatorily redeemable common and preferred stock liability | 83 | 71
+Loss on extinguishment of debt | - | 391
+Gain on extinguishment of payable | (612 | ) | -
+Unrealized foreign exchange gain/(loss) | - | (7 | )
+Changes in operating assets and liabilities:
+Accounts receivable, current, net | (208 | ) | 87
+Unbilled revenue | (20 | ) | 56
+Prepaid expenses and other current assets | 185 | (44 | )
+Accounts receivable, net | - | 4
+Other assets | 4 | (7 | )
+Accounts payable | (156 | ) | 1,989
+Operating lease liabilities | (232 | ) | (53 | )
+Accrued expenses and other current liabilities | 1,963 | 461
+Deferred revenue | - | (54 | )
+Net cash used in operating activities | (4,807 | ) | (488 | )
+Cash flows from investing activities
+Costs capitalized for internally developed software | (157 | ) | (72 | )
+Purchases of property and equipment | (27 | ) | (8 | )
+Net cash used in investing activities | (184 | ) | (80 | )
+Cash flows from financing activities
+Proceeds from Convertible notes payable, current | 2,050 | 180
+Repayment of Convertible notes payable, current | (224 | ) | -
+Proceeds received from sales of forward purchase agreement shares | 679 | -
+Payment of director and officer insurance liability (short term debt) | (376 | ) | -
+Proceeds from director and officer insurance liability (short term debt) | 98 | -
+Payment of deferred transaction costs | - | (5 | )
+Net cash (used in) / provided by financing activities | 2,227 | 175
+Effect of exchange rate changes on cash and cash equivalents | (4 | ) | (1 | )
+Net change in cash and cash equivalents | (2,767 | ) | (394 | )
+Cash and cash equivalents at beginning of the period | 4,221 | 500
+Cash and cash equivalents at end of the period | 1,454 | 106
+Supplemental disclosures of cash flow information
+Cash paid for income taxes | 22 | 18
+Cash paid for interest | 12 | -
+Non-cash investing and financing activities:
+Deemed dividend related to shortfall warrant modification | 84 | -
+Common Stock issued upon cashless exercise of stock options | 39 | 707
+Unpaid deferred transaction costs as of the end of the period | - | 507
+Waiver of deferred transaction costs as of the end of the period | - | 505
+Issuance of shares vested upon repayment and forgiveness of 2023 Promissory Notes | - | 3
+Warrants issues in connection with new Convertible Notes (Refer note 6) | 231 | -
+Shortfall warrant amendment (Refer note 16) | 494 | -
+Issuance of common stock as consideration payable to customer (Refer note 4) | 578
+Issuance of common stock to settle outstanding severance pay of employees (Refer note 9) | 460 | -
+Issuance of common stock to settle outstanding invoices of vendor (Refer note 18) | 1,298 | -
+Adjustment of share subscription receivable on account of partial early termination of forward contract (Refer note 15) | 9,588
+(Loss)/Gain on extinguishment of debt | - | (391 | )
+The accompanying notes are an integral part of these condensed consolidated interim financial statements.

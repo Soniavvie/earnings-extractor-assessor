@@ -549,5 +549,121 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/exh_991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/907242/000117184326006863/0001171843-26-006863-index.htm",
     "saved_at": "2026-11-04T06:07:50+08:00"
+  },
+  {
+    "cik": "1934850",
+    "company": "F&G Annuities & Life, Inc.",
+    "accession": "0001934850-26-000105",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1131,
+        "unit": "USD millions",
+        "quote": "Total revenues 1,131"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 740,
+        "unit": "USD millions",
+        "quote": "Net earnings (loss) attributable to F&G 740"
+      },
+      "diluted_eps": {
+        "value": 5.48,
+        "unit": "USD per share",
+        "quote": "Net earnings (loss) attributable to F&G common shareholders per common share Basic $ 5.71 $ 0.86 $ 6.86 $ 0.95 Diluted $ 5.48"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says record core retail sales lifted assets under management before reinsurance to a record $76.2 billion.",
+        "quote": "F&G continued to build momentum in the third quarter, with record core retail sales driving assets under management before reinsurance to a record $76.2 billion."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the company is growing while keeping a disciplined approach to pricing and profitability.",
+        "quote": "Importantly, we are generating this growth while maintaining our disciplined approach to pricing and profitability, prioritizing business that meets our return targets and allocating capital to the most attractive opportunities."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CEO says the company is moving towards a more fee-based, higher-margin and less capital-intensive business.",
+        "quote": "We also continue to make meaningful progress toward a more fee-based, higher margin and less capital intensive business while growing our core spread-based franchise."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of momentum, record sales and meaningful progress, and names multiple avenues to grow earnings."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1934850-0001934850-26-000105.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000105/a3q26fgearningsrelease_f.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1934850/000193485026000105/0001934850-26-000105-index.htm",
+    "saved_at": "2026-11-11T06:14:58+08:00"
+  },
+  {
+    "cik": "2033383",
+    "company": "Fusemachines Inc.",
+    "accession": "0001493152-26-049725",
+    "release_date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.845,
+        "unit": "USD millions",
+        "quote": "Revenue | 1,845"
+      },
+      "operating_income": {
+        "value": -2.314,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (2,314"
+      },
+      "net_income": {
+        "value": -4.623,
+        "unit": "USD millions",
+        "quote": "Net loss | (4,623"
+      },
+      "diluted_eps": {
+        "value": -0.15,
+        "unit": "USD per share",
+        "quote": "Net loss per common share - basic and diluted (i/ii) | (0.15"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "The CEO says cost-reduction initiatives are significantly reducing operating losses while revenue keeps growing.",
+        "quote": "Our cost-reduction initiatives are delivering measurable results, allowing us to significantly reduce operating losses while continuing to grow revenue."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the 39.2% quarter-on-quarter improvement in Adjusted EBITDA shows meaningful progress.",
+        "quote": "Our 39.2% quarter-over-quarter improvement in our Adjusted EBITDA demonstrates the meaningful progress we are making in improving the financial and operational performance of Fusemachines"
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The company says quarterly revenue rose 2.8% from the prior quarter to $1.85 million.",
+        "quote": "Revenue increased 2.8% quarter-over-quarter to $1.85 million compared with $1.79 million in the prior quarter."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of meaningful progress and measurable results from cost cuts, and of continued revenue growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2033383-0001493152-26-049725.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226049725/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226049725/0001493152-26-049725-index.htm",
+    "saved_at": "2026-11-11T06:14:58+08:00"
   }
 ]
