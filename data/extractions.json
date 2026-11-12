@@ -665,5 +665,126 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226049725/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226049725/0001493152-26-049725-index.htm",
     "saved_at": "2026-11-11T06:14:58+08:00"
+  },
+  {
+    "cik": "1769628",
+    "company": "CoreWeave, Inc.",
+    "accession": "0001769628-26-000461",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3661,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 3,661 | $ | 1,365 | $ | 8,314 | $ | 3,559"
+      },
+      "operating_income": {
+        "value": 207,
+        "unit": "USD millions",
+        "quote": "Operating income | 207 | 52 | 14 | 44"
+      },
+      "net_income": {
+        "value": -709,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (709) | $ | (110) | $ | (2,075) | $ | (715)"
+      },
+      "diluted_eps": {
+        "value": -1.27,
+        "unit": "USD per share",
+        "quote": "Net loss per share attributable to common stockholders, diluted | $ | (1.27)"
+      }
+    },
+    "guidance": {
+      "text": "CoreWeave raised its full-year 2026 revenue guidance to between $13.0 billion and $13.3 billion.",
+      "quote": "We are raising our full year 2026 revenue guidance to a range of $13.0 billion to $13.3 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says revenue rose by more than $1 billion on the previous quarter.",
+        "quote": "This was a breakout quarter for CoreWeave, with revenue increasing by more than $1 billion sequentially"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says adjusted operating margins reached double digits a quarter ahead of plan.",
+        "quote": "adjusted operating margins reaching double digits a quarter ahead of plan"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO expects about $9 billion in customer prepayments and deposits in the next three months.",
+        "quote": "approximately $9 billion in customer prepayments and deposits expected in the next three months alone"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company raised its full-year 2026 adjusted operating income guidance to $1.275 billion to $1.375 billion.",
+        "quote": "We are also raising our full year 2026 adjusted operating income2 guidance to a range of $1.275 billion to $1.375 billion"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a breakout quarter, and the company raises its revenue and adjusted operating income guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1769628-0001769628-26-000461.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/coreweave3q26earningspress.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000461/0001769628-26-000461-index.htm",
+    "saved_at": "2026-11-13T06:07:54+08:00"
+  },
+  {
+    "cik": "914139",
+    "company": "PARKERVISION INC",
+    "accession": "0001437749-26-036154",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 0.903,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 903"
+      },
+      "diluted_eps": {
+        "value": 0.01,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.01"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the appellate decision does not affect the merits of the Qualcomm case and the company wants a jury trial on its transmitter claims.",
+        "quote": "the appellate court's decision does not impact the merits of our case, and we are eager to pursue a jury trial on our transmitter claims as expeditiously as possible"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO hopes trial schedules will be set soon in the MediaTek and Realtek cases.",
+        "quote": "We are hopeful that schedules will be set soon in our MediaTek and Realtek cases which are both primed and ready for trial."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The release says nine-month operating expenses fell by $3.0 million, or 46%.",
+        "quote": "The decrease in net loss is the result of a $3.0 million, or 46%, decrease in operating expenses"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the split of the Qualcomm case inefficient but says the company is eager and hopeful about its trials."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/914139-0001437749-26-036154.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/914139/000143774926036154/ex_1011076.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/914139/000143774926036154/0001437749-26-036154-index.htm",
+    "saved_at": "2026-11-13T06:07:54+08:00"
   }
 ]
