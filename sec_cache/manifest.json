@@ -1,134 +1,140 @@
 {
-  "fetched_at": "2026-11-15T09:15:46+08:00",
+  "fetched_at": "2026-11-16T08:58:15+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-14",
+    "end": "2026-11-15",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 18,
-  "answered": 18,
+  "requests": 19,
+  "answered": 19,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 802 ms"
+      "detail": "HTTP 200, 60 KB in 176 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 516 ms"
+      "detail": "HTTP 200, 60 KB in 84 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 849 ms"
+      "detail": "HTTP 200, 60 KB in 103 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 396 ms"
+      "detail": "HTTP 200, 55 KB in 101 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 172 ms"
+      "detail": "HTTP 200, 148 KB in 104 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 105 ms"
+      "detail": "HTTP 200, 156 KB in 44 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 93 ms"
+      "detail": "HTTP 200, 154 KB in 43 ms"
     },
     {
-      "name": "Legence Corp. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526456940/index.json",
+      "name": "FiEE, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467761/000182912626012399/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 168 ms"
+      "detail": "HTTP 200, 1 KB in 101 ms"
     },
     {
-      "name": "Legence Corp. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526456940/d134924dex991.htm",
+      "name": "FiEE, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467761/000182912626012399/fiee_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 279 KB in 316 ms"
+      "detail": "HTTP 200, 97 KB in 194 ms"
     },
     {
-      "name": "POWERCOMPUTE, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526459251/index.json",
+      "name": "Cyngn Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1874097/000143774926036339/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 102 ms"
+      "detail": "HTTP 200, 1 KB in 71 ms"
     },
     {
-      "name": "POWERCOMPUTE, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526459251/lmfa-ex99_1.htm",
+      "name": "Cyngn Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1874097/000143774926036339/0001437749-26-036339-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 482 KB in 119 ms"
+      "detail": "HTTP 200, 10 KB in 71 ms"
+    },
+    {
+      "name": "Cyngn Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1874097/000143774926036339/ex_1008032.htm",
+      "ok": true,
+      "detail": "HTTP 200, 258 KB in 54 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 154 ms"
+      "detail": "HTTP 200, 3,174 KB in 68 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 328 ms"
+      "detail": "HTTP 200, 4,447 KB in 69 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 145 ms"
+      "detail": "HTTP 200, 2,745 KB in 86 ms"
     },
     {
-      "name": "Legence Corp. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002052568.json",
+      "name": "FiEE, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001467761.json",
       "ok": true,
-      "detail": "HTTP 200, 366 KB in 182 ms"
+      "detail": "HTTP 200, 2,032 KB in 151 ms"
     },
     {
-      "name": "POWERCOMPUTE, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001640384.json",
+      "name": "Cyngn Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001874097.json",
       "ok": true,
-      "detail": "HTTP 200, 1,583 KB in 370 ms"
+      "detail": "HTTP 200, 942 KB in 206 ms"
     },
     {
       "name": "CoreWeave, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001769628.json",
       "ok": true,
-      "detail": "HTTP 200, 555 KB in 145 ms"
+      "detail": "HTTP 200, 555 KB in 98 ms"
     },
     {
       "name": "PARKERVISION INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000914139.json",
       "ok": true,
-      "detail": "HTTP 200, 1,958 KB in 281 ms"
+      "detail": "HTTP 200, 1,958 KB in 496 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000914139.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001640384.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001467761.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001769628.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002052568.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001874097.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -136,9 +142,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1640384_000119312526459251_index.json",
-    "www.sec.gov_Archives_edgar_data_1640384_000119312526459251_lmfa-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_2052568_000119312526456940_d134924dex991.htm",
-    "www.sec.gov_Archives_edgar_data_2052568_000119312526456940_index.json"
+    "www.sec.gov_Archives_edgar_data_1467761_000182912626012399_fiee_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1467761_000182912626012399_index.json",
+    "www.sec.gov_Archives_edgar_data_1874097_000143774926036339_0001437749-26-036339-index.htm",
+    "www.sec.gov_Archives_edgar_data_1874097_000143774926036339_ex_1008032.htm",
+    "www.sec.gov_Archives_edgar_data_1874097_000143774926036339_index.json"
   ]
 }
