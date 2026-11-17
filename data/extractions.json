@@ -786,5 +786,134 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/914139/000143774926036154/ex_1011076.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/914139/000143774926036154/0001437749-26-036154-index.htm",
     "saved_at": "2026-11-13T06:07:54+08:00"
+  },
+  {
+    "cik": "1618835",
+    "company": "Evofem Biosciences, Inc.",
+    "accession": "0001493152-26-051806",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 4.628,
+        "unit": "USD millions",
+        "quote": "Product sales, net | $ | 4,628"
+      },
+      "operating_income": {
+        "value": 0.74,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | 740"
+      },
+      "net_income": {
+        "value": 1.004,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | 1,004"
+      },
+      "diluted_eps": {
+        "value": 0.0,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.00"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter net sales reflect operating without dedicated growth capital for brand promotion and physician outreach since late 2022.",
+        "quote": "While third quarter net sales reflect the cumulative impact of operating without dedicated growth capital for brand promotion and physician outreach since late 2022, we are proud of the discipline, efficiency and tenacity demonstrated across the organization."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says rigorous expense management produced $0.7 million of operating income in the quarter.",
+        "quote": "Through rigorous expense management, we generated $0.7 million of operating income during the quarter"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO believes targeted investment in commercial activities would provide opportunities to accelerate growth.",
+        "quote": "We remain confident in the long-term value of PHEXX and SOLOSEC and believe targeted investment in commercial activities would provide meaningful opportunities to accelerate growth."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO links lower net sales to a lack of growth capital, but stresses cost discipline, operating income and confidence in the products."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1618835-0001493152-26-051806.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1618835/000149315226051806/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1618835/000149315226051806/0001493152-26-051806-index.htm",
+    "saved_at": "2026-11-18T06:07:55+08:00"
+  },
+  {
+    "cik": "1758766",
+    "company": "STEM, INC.",
+    "accession": "0001758766-26-000092",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 36.656,
+        "unit": "USD millions",
+        "quote": "Total revenue | 36,656"
+      },
+      "operating_income": {
+        "value": -6.814,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (6,814)"
+      },
+      "net_income": {
+        "value": -14.608,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (14,608)"
+      },
+      "diluted_eps": {
+        "value": -1.51,
+        "unit": "USD per share",
+        "quote": "Net loss per share attributable to common stockholders, diluted | $ | (1.51)"
+      }
+    },
+    "guidance": {
+      "text": "Stem lowered its full-year 2026 revenue guidance from $140 to $190 million to $132 to $142 million.",
+      "quote": "Revenue | $140 - $190 | $132 - $142"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says PowerTrack software revenue grew 18% year on year and solar assets under management reached a record 40 gigawatts.",
+        "quote": "PowerTrack software revenue grew 18% year-over-year, we achieved a record 40 gigawatts of solar assets under management"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO says the quarter had strong margins, with non-GAAP gross margin of 58% and adjusted EBITDA of $7.1 million, more than triple a year earlier.",
+        "quote": "We delivered another quarter of strong margins and adjusted EBITDA, with non-GAAP gross margin of 58% and adjusted EBITDA of $7.1 million, more than triple the third quarter of 2025"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO says revenue, ARR and operating cash flow guidance is being lowered to reflect the de-emphasis of battery hardware resale and Managed Services.",
+        "quote": "We are lowering revenue, ARR and operating cash flow guidance to reflect the de-emphasis of battery hardware resale and Managed Services, including the exit of the majority of our remaining legacy energy storage financing entities."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO says the Board has begun a review of strategic alternatives and the team remains focused on execution.",
+        "quote": "As announced on October 26, our Board has initiated a review of strategic alternatives to maximize shareholder value. Throughout that process, our team remains focused on execution and on serving our customers."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management stresses software growth and strong margins, but also lowers revenue, ARR and cash flow guidance and notes a strategic review."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1758766-0001758766-26-000092.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1758766/000175876626000092/exhibit99-8xkx20261116xq32.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1758766/000175876626000092/0001758766-26-000092-index.htm",
+    "saved_at": "2026-11-18T06:07:55+08:00"
   }
 ]

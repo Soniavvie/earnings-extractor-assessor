@@ -1,0 +1,93 @@
+Company: Evofem Biosciences, Inc. (CIK 1618835)
+Accession: 0001493152-26-051806
+Results released: 2026-11-13
+Press release: https://www.sec.gov/Archives/edgar/data/1618835/000149315226051806/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1618835/000149315226051806/0001493152-26-051806-index.htm
+Saved: 2026-11-18T06:07:55+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+Evofem Reports Third Quarter 2026 Financial Results and Provides Business Update
+SAN DIEGO, CA, November 13, 2026 — Evofem Biosciences, Inc. (Evofem or the Company) (OTCID: EVFM), today announced financial results for the three- and nine-month periods ended September 30, 2026.
+Saundra Pelletier, CEO of Evofem, said, “While third quarter net sales reflect the cumulative impact of operating without dedicated growth capital for brand promotion and physician outreach since late 2022, we are proud of the discipline, efficiency and tenacity demonstrated across the organization. Through rigorous expense management, we generated $0.7 million of operating income during the quarter while continuing to support patients and healthcare providers who rely on our innovative sexual health products. We remain confident in the long-term value of PHEXX and SOLOSEC and believe targeted investment in commercial activities would provide meaningful opportunities to accelerate growth.”
+Highlights since July 1, 2026, include:
+● | Income from operations was $0.7 million for Q3 2026, compared to $1.0 million for Q3 2025.
+● | Net income attributable to common stockholders was $0.9 million, or $0.01 per basic and ($0.00) per diluted share, for Q3 2026, compared to a net loss of $1.7 million, or ($0.01) per basic and diluted share, for Q3 2025.
+● | Contracted with a second pharmaceutical manufacturer to produce PHEXX® (lactic acid, citric acid and potassium bitartrate), an important milestone in its strategy to support long-term growth, enhance manufacturing flexibility, and reduce costs.
+● | Shipped the 500,000th box of PHEXX in July 2026, representing hormone-free, on-demand contraception for six million acts of sex.
+● | A fifth study site was added in the ongoing investigator-led, NIH-funded Phase 4 clinical trial evaluating the effectiveness and cost-effectiveness of SOLOSEC® (secnidazole) 2g oral granules (single-dose, one time) versus metronidazole (twice daily for seven days) for the treatment of Trichomonas vaginalis in men and women. Study investigators hypothesize that the rate of repeat infections with T. vaginalis will be 1.75 lower in the SOLOSEC group versus the multi-dose oral metronidazole arm and that single-dose SOLOSEC will have higher initial cost but will be more cost effective compared to multi-dose metronidazole, largely due to lower breakthrough rates of infection.1
+● | Regulatory work is underway for SOLOSEC in Uganda, the first planned market in Sub-Saharan Africa under our April 2026 distribution agreement with Clovis Davis Pharmaceuticals.
+1
+Third Quarter Financial Results
+For the three months ended September 30, 2026, net sales were $4.6 million, versus $5.0 million in the prior year period. The decrease was primarily due to lower ex-factory sales for PHEXX in the 2026 period. Wholesalers have continued to sell through inventory purchased in December 2025, ahead of the January 2026 price increase. Additional factors include the ongoing absence of funding for marketing and a reduction in filled sales territories in the current quarter. This was partially offset by an increase in SOLOSEC units sold, the wholesale average cost (WAC) increase that took effect on January 1, 2026, and improved gross-to-net realization for both products in the 2026 period.
+Total operating expenses were $3.9 million in the third quarter of 2026, versus $4.0 million in the prior year period. The decrease was driven by cost containment measures across all aspects of the business.
+Income from operations was $0.7 million, compared to $1.0 million in the prior year quarter.
+Net income attributable to common stockholders was $0.9 million, or $0.01 per basic and ($0.00) per diluted share, in the current period versus a net loss attributable to common stockholders of $1.7 million, or $(0.01) per basic and diluted share, for the third quarter of 2025.
+Liquidity
+Restricted cash and cash equivalents was $0.3 million as of September 30, 2026, versus $0.6 million as of December 31, 2025.
+About Evofem
+Evofem Biosciences is a San Diego-based pharmaceutical company commercializing two FDA-approved sexual and reproductive health products:
+● | PHEXX® (lactic acid, citric acid, and potassium bitartrate) - the first and only hormone-free, on-demand prescription contraceptive vaginal gel. Visit phexx.com to learn more and for important safety information.
+● | SOLOSEC® (secnidazole) 2g oral granules - an FDA-approved oral antibiotic for the treatment of two sexual health diseases: bacterial vaginosis (BV), a common vaginal infection, in females 12 years of age and older, and trichomoniasis, a common sexually transmitted infection (STI), in people 12 years of age and older. SOLOSEC provides a complete course of therapy in just one dose. Visit solosec.com to learn more and for important safety information.
+PHEXX® and SOLOSEC® are registered trademarks of Evofem Biosciences, Inc.
+2
+Forward-Looking Statements
+This press release includes “forward-looking statements,” within the meaning of the safe harbor for forward-looking statements provided by Section 21E of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. Words such as, but not limited to, “anticipate,” “could,” “estimate,” “expect,” “target,” “hypothesize,” “intend,” “potential,” “strategy,” “will,” and similar expressions or phrases, or the negative of those expressions or phrases, are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Forward-looking statements are based on current assumptions and involve known and unknown risks and uncertainties, many of which are beyond the Company’s control. Important factors that could cause actual results to differ materially from those discussed or implied in the forward-looking statements include, but are not limited to, limited cash resources, the Company’s ability to continue as a going concern, dependence on new capital or business development transactions to fund operations, potential delays in regulatory approvals, changes in market demand, manufacturing and supply chain risks, risks related to the Company’s limited revenue base relative to operating expenses, and its reliance on third-party licensees and distributors for ex-U.S. commercialization, together with those that are disclosed in the Company’s SEC filings, including its Annual Report on Form 10-K for the year ended December 31, 2025, filed with the SEC on March 11, 2026, Quarterly Report on Form 10-Q for the quarter ended September 30, 2026 filed with the SEC on November 13, 2026, and any subsequent filings. All forward-looking statements are expressly qualified in their entirety by such factors. Evofem undertakes no obligation to update or revise any forward-looking statement except as required by law, and investors are cautioned not to place undue reliance on such statements given the Company’s current liquidity position and evolving business conditions.
+Sources
+1. | National Institute of Allergy & Infectious Diseases (NIAID) of the National Institutes of Health. Award number R01AI183266: Refining Trichomonas vaginalis treatment in women and men.
+Connect with Us
+ir@evofem.com
+media@evofem.com
+— Financial Tables Follow —
+3
+EVOFEM BIOSCIENCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(unaudited)
+(In thousands)
+As of
+September 30, 2026 | December 31, 2025
+Cash and cash equivalents | $ | - | $ | -
+Restricted cash and cash equivalents | $ | 317 | $ | 578
+Trade accounts receivable, net | $ | 3,663 | $ | 12,480
+Total current liabilities | $ | 84,776 | $ | 84,820
+Total stockholders’ deficit | $ | (83,927 | ) | $ | (74,336 | )
+Total liabilities, convertible and redeemable preferred stock and stockholders’ deficit | $ | 7,261 | $ | 20,274
+4
+EVOFEM BIOSCIENCES, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(unaudited)
+(In thousands, except share and per share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Product sales, net | $ | 4,628 | $ | 4,952 | $ | 8,160 | $ | 10,622
+Operating Expenses:
+Cost of goods sold | 750 | 905 | 1,671 | 2,025
+Gain on change in accounting estimate on contingent royalty liability | - | (1,933 | ) | - | (1,933 | )
+Amortization of intangible asset | 15 | 80 | 104 | 410
+Research and development, net | 341 | 470 | 1,553 | (3,819 | )
+Selling and marketing | 1,534 | 2,391 | 5,702 | 7,616
+General and administrative | 1,248 | 2,088 | 5,448 | 6,296
+Total operating expenses, net | 3,888 | 4,001 | 14,478 | 10,595
+Income (loss) from operations | 740 | 951 | (6,318 | ) | 27
+Other income (expense), net:
+Interest income | - | 3 | 5 | 13
+Other expense, net | (843 | ) | (682 | ) | (2,193 | ) | (1,944 | )
+Loss on debt extinguishment | (405 | ) | - | (2,597 | ) | -
+Change in fair value of financial instruments | 1,512 | (1,845 | ) | (4,395 | ) | (490 | )
+Total other income (expense), net | 264 | (2,524 | ) | (9,180 | ) | (2,421 | )
+Loss before income tax benefit (expense) | 1,004 | (1,573 | ) | (15,498 | ) | (2,394 | )
+Income tax benefit (expense) | - | 4 | 1 | (3 | )
+Net income (loss) | 1,004 | (1,569 | ) | (15,497 | ) | (2,397 | )
+Convertible and redeemable preferred stock deemed dividends | (139 | ) | (111 | ) | (267 | ) | (115 | )
+Net income (loss) attributable to common stockholders | $ | 865 | $ | (1,680 | ) | $ | (15,764 | ) | $ | (2,512 | )
+Net loss per share attributable to common stockholders:
+Net income (loss) per share attributable to common stockholders:
+Basic | $ | 0.01 | $ | (0.01 | ) | $ | (0.12 | ) | $ | (0.02 | )
+Diluted | $ | (0.00 | ) | $ | (0.01 | ) | $ | (0.12 | ) | $ | (0.02 | )
+Weighted-average shares used to compute net income (loss) per share attributable to common shareholders:
+Basic | 137,337,773 | 124,385,785 | 135,989,122 | 121,037,306
+Diluted | 6,814,698,261 | 124,385,785 | 135,989,122 | 121,037,306
+To access Evofem’s full financial results for the three-and nine-month periods ended September 30, 2026, as filed with the SEC on Form 10-Q on November 13, 2026, please visit https://investor.evofem.com/financial-information/sec-filings/default.aspx.
+###
+5
