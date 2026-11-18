@@ -1,0 +1,200 @@
+Company: GOLUB CAPITAL BDC, Inc. (CIK 1476765)
+Accession: 0001476765-26-000083
+Results released: 2026-11-17
+Press release: https://www.sec.gov/Archives/edgar/data/1476765/000147676526000083/gbdcfy202610-kearningsprxex.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1476765/000147676526000083/0001476765-26-000083-index.htm
+Saved: 2026-11-19T06:08:02+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 gbdcfy202610-kearningsprxex.htm EX-99.1
+Exhibit 99.1
+Golub Capital BDC, Inc. Announces Fiscal Year 2026 Fourth Quarter Financial Results
+Declares Quarterly Distribution of $0.33 Per Share
+NEW YORK, NY, November 17, 2026 - Golub Capital BDC, Inc., a business development company (Nasdaq: GBDC), today announced its financial results for its fourth fiscal quarter ended September 30, 2026.
+Except where the context suggests otherwise, the terms “we,” “us,” “our,” and “Company” refer to Golub Capital BDC, Inc. and its consolidated subsidiaries. “GC Advisors” refers to GC Advisors LLC, our investment adviser.
+SELECTED FINANCIAL HIGHLIGHTS
+(in thousands, except per share data)
+September 30, 2026 | June 30, 2026
+Investment portfolio, at fair value | $ | 7,799,207 | $ | 8,196,353
+Total assets | $ | 8,031,678 | $ | 8,339,566
+Net asset value per share | $ | 14.00 | $ | 14.25
+Quarter Ended
+September 30, 2026 | June 30, 2026
+Net investment income per share | $ | 0.32 | $ | 0.33
+Amortization of purchase premium per share | 0.01 | 0.01
+Adjusted net investment income per share1 | $ | 0.33 | $ | 0.34
+.
+Net realized/unrealized gain/(loss) per share | $ | (0.24) | $ | (0.11)
+Reversal of realized/unrealized loss resulting from the amortization of purchase premium per share1 | (0.01) | (0.01)
+Adjusted net realized/unrealized gain/(loss) per share1 | $ | (0.25) | $ | (0.12)
+Earnings/(loss) per share | $ | 0.08 | $ | 0.22
+Adjusted earnings/(loss) per share1 | $ | 0.08 | $ | 0.22
+Net asset value per share | $ | 14.00 | $ | 14.25
+Distributions paid per share | $ | 0.33 | $ | 0.33
+1 On September 16, 2019 and June 3, 2024, the Company completed its acquisition of Golub Capital Investment Corporation (“GCIC”) and Golub Capital BDC 3, Inc. (“GBDC 3”), respectively. Each acquisition was accounted for under the asset acquisition method of accounting in accordance with Accounting Standards Codification 805-50, Business Combinations — Related Issues. Under asset acquisition accounting, where the consideration paid to GCIC and GBDC 3’s stockholders exceeded the relative fair values of the assets acquired, the premium paid by the Company was allocated to the cost of the GCIC and GBDC 3 investments acquired by the Company pro-rata based on their relative fair value. Immediately following each acquisition, the Company recorded its assets at their respective fair values and, as a result, the purchase premium allocated to the cost basis of the assets acquired was immediately recognized as unrealized depreciation on the Company's Consolidated Statement of Operations. The purchase premium allocated to investments in loan securities acquired from GCIC and GBDC 3 will amortize over the life of the loans through interest income with a corresponding reversal of the unrealized depreciation on such loans acquired through their ultimate disposition. The purchase premium allocated to investments in equity securities will not amortize over the life of the equity securities through interest income and, assuming no subsequent change to the fair value of the GCIC and GBDC 3 equity securities acquired and disposition of such equity securities at fair value, the Company will recognize a realized loss with a corresponding reversal of the unrealized depreciation upon disposition of the GCIC and GBDC 3 equity securities acquired.
+As a supplement to U.S. generally accepted accounting principles (“GAAP”) financial measures, the Company is providing the following non-GAAP financial measures that it believes are useful for the reasons described below:
+•“Adjusted Net Investment Income” and “Adjusted Net Investment Income Per Share” – excludes the amortization of the purchase premium from net investment income calculated in accordance with GAAP.
+•“Adjusted Net Investment Income Before Accrual for Capital Gain Incentive Fee” – Adjusted Net Investment Income excluding the accrual or reversal for the capital gain incentive fee required under GAAP;
+•“Adjusted Net Realized and Unrealized Gain/(Loss)” and “Adjusted Net Realized and Unrealized Gain/(Loss) Per Share” – excludes the unrealized loss resulting from the purchase premium write-down and the corresponding reversal of the unrealized loss from the amortization of the premium from the determination of realized and unrealized gain/(loss) in accordance with GAAP.
+•“Adjusted Net Income/(Loss)” and “Adjusted Earnings/(Loss) Per Share” – calculates net income and earnings per share based on Adjusted Net Investment Income and Adjusted Net Realized and Unrealized Gain/(Loss).
+Exhibit 99.1
+The Company believes that excluding the financial impact of the purchase premium write down in the above non-GAAP financial measures is useful for investors as it is a non-cash expense/loss resulting from the acquisitions of GCIC and GBDC 3 and is one method the Company uses to measure its financial condition and results of operations. In addition, the Company believes excluding the accrual of the capital gain incentive fee under GAAP is useful as a portion of such accrual is not contractually payable under the terms of the Company’s investment advisory agreement with GC Advisors.
+Fourth Fiscal Quarter 2026 Highlights
+•Net investment income per share for the quarter ended September 30, 2026 was $0.32 as compared to $0.33 for the quarter ended June 30, 2026. Excluding $0.01 per share in purchase premium amortization from the GCIC/GBDC 3 acquisitions, and no accrual or reversal for the capital gain incentive fee under GAAP, Adjusted Net Investment Income Per Share1 for the quarter ended September 30, 2026 was $0.33. This compares to Adjusted Net Investment Income Per Share1 of $0.34 for the quarter ended June 30, 2026 when excluding $0.01 per share in purchase premium amortization from the GCIC/GBDC 3 acquisitions and no accrual or reversal for the capital gain incentive fee under GAAP.
+•Net realized and unrealized gain/(loss) per share for the quarter ended September 30, 2026 was ($0.24). Adjusted Net Realized and Unrealized Gain/(Loss) Per Share1 was ($0.25) when excluding $0.01 per share net reversal of unrealized depreciation and realized loss resulting from the amortization of the GCIC/GBDC 3 acquisition purchase premium. The Adjusted Net Realized and Unrealized Gain/(Loss) Per Share¹ for the quarter ended September 30, 2026 was primarily due to unrealized depreciation resulting from (i) the underperformance of certain portfolio companies that were on or taken to non-accrual during the quarter and (ii) equity investments in portfolio companies we had previously restructured, which were partially offset by net realized gains on the exit of equity investments in multiple portfolio companies. For additional analysis, please refer to the Quarter Ended 09.30.2026 Earnings Presentation available on the Investor Resources link on the homepage of the Company's website (www.golubcapitalbdc.com) under Events/Presentations. The Earnings Presentation was also filed with the Securities and Exchange Commission as an exhibit to a Form 8-K. These results compare to net realized and unrealized gain/(loss) per share of ($0.11) during the quarter ended June 30, 2026. Adjusted Net Realized and Unrealized Gain/(Loss) Per Share1 for the quarter ended June 30, 2026 was ($0.12) when excluding $0.01 per share net reversal of unrealized depreciation and realized loss resulting from the amortization of the GCIC/GBDC 3 acquisition purchase premium.
+•Earnings per share for the quarter ended September 30, 2026 was $0.08 as compared to $0.22 for the quarter ended June 30, 2026. Adjusted Earnings/(Loss) Per Share1 for the quarter ended September 30, 2026 was $0.08 as compared to $0.22 for the quarter ended June 30, 2026.
+•Net asset value (“NAV”) per share decreased to $14.00 at September 30, 2026 from $14.25 at June 30, 2026.
+•On September 29, 2026, we paid a quarterly distribution of $0.33 per share.
+•On November 12, 2026, our board of directors declared a quarterly distribution of $0.33 per share, which is payable on December 30, 2026, to stockholders of record as of December 14, 2026.
+•During the three months ended September 30, 2026, we opportunistically repurchased approximately 793,400 shares of our common stock for an aggregate purchase price of approximately $10.1 million, at an average price of $12.75 per share, and during the period October 1, 2026 through November 17, 2026 we repurchased approximately 0.8 million shares of our common stock for an aggregate purchase price of approximately $10.3 million, at an average price of $12.43 per share in response to market volatility. During the fiscal year ended September 30, 2026, we repurchased approximately $88.2 million, or 6.8 million shares, of our common stock pursuant to the Company’s previously disclosed share repurchase program.
+•During the three months ended September 30, 2026, the Golub Capital Employee Grant Program Rabbi Trust (the “Trust”) purchased approximately $23.3 million, or 1,786,387 shares, of our common stock for the purpose of awarding incentive compensation to employees of Golub Capital. Through the first three calendar quarters of 2026, the Trust purchased $73.4 million, or 5,712,298 shares, of our common stock.
+Exhibit 99.1
+Portfolio and Investment Activities
+As of September 30, 2026, the Company had investments in 432 portfolio companies with a total fair value of $7,799.2 million. This compares to the Company’s portfolio as of June 30, 2026, when the Company had investments in 424 portfolio companies with a total fair value of $8,196.4 million. Investments in portfolio companies as of September 30, 2026 and June 30, 2026 consisted of the following:
+As of September 30, 2026 | As of June 30, 2026
+Investments | Percentage of | Investments | Percentage of
+at Fair Value | Total | at Fair Value | Total
+Investment Type | (In thousands) | Investments | (In thousands) | Investments
+Senior secured | $ | 381,948 | 4.9 | % | $ | 391,132 | 4.8 | %
+One stop | 6,819,288 | 87.4 | 7,162,462 | 87.4
+Junior debt* | 61,010 | 0.8 | 59,048 | 0.7
+Equity | 536,961 | 6.9 | 583,711 | 7.1
+Total | $ | 7,799,207 | 100.0 | % | $ | 8,196,353 | 100.0 | %
+* | Junior debt is comprised of second lien and subordinated debt.
+The following table shows the asset mix of our new investment commitments for the three months ended September 30, 2026:
+New Investment
+Commitments | Percentage of
+(In thousands) | Commitments
+Senior secured | $ | 997 | 5.0 | %
+One stop | 17,223 | 86.3
+Junior debt* | — | —
+Equity | 1,734 | 8.7
+Total new investment commitments | $ | 19,954 | 100.0 | %
+* | Junior debt is comprised of second lien and subordinated debt.
+Total investments in portfolio companies at fair value were $7,799.2 million at September 30, 2026. As of September 30, 2026, total assets were $8,031.7 million, net assets were $3,629.2 million and net asset value per share was $14.00.
+Consolidated Results of Operations
+For the fourth fiscal quarter of 2026, the Company reported GAAP net income of $20.1 million or $0.08 per share and Adjusted Net Income1 of $20.1 million or $0.08 per share. GAAP net investment income was $82.5 million or $0.32 per share and Adjusted Net Investment Income1 was $84.7 million or $0.33 per share. GAAP net realized and unrealized gain/(loss) was ($62.4) million or ($0.24) per share and Adjusted Net Realized and Unrealized Gain/(Loss)1 was ($64.6) million or ($0.25) per share.
+Net income can vary substantially from period to period due to various factors, including the level of new investment commitments, the recognition of realized gains and losses and unrealized appreciation and depreciation. As a result, quarterly comparisons of net income may not be meaningful.
+Liquidity and Capital Resources
+The Company’s liquidity and capital resources are derived from the Company’s debt securitizations (also known as collateralized loan obligations, or CLOs), unsecured notes, revolving credit facilities and cash flow from operations. The Company’s primary uses of funds from operations include investments in portfolio companies and payment of fees and other expenses that the Company incurs. The Company has used, and expects to continue to use, its debt securitizations, unsecured notes, revolving credit facilities, proceeds from its investment portfolio and proceeds from offerings of its securities and its dividend reinvestment plan to finance its investment objectives.
+1 See footnote 1 to “Selected Financial Highlights” above.
+Exhibit 99.1
+As of September 30, 2026, we had cash, cash equivalents and foreign currencies of $51.5 million, restricted cash, restricted cash equivalents and restricted foreign currencies of $88.4 million and $4,305.3 million of debt outstanding. As of September 30, 2026, subject to leverage and borrowing base restrictions, we had approximately $1,351.9 million of remaining availability, in the aggregate, on our revolving credit facility with JPMorgan. In addition, as of September 30, 2026, we had $254.6 million of remaining commitments and availability on our unsecured line of credit with GC Advisors.
+The Company’s GAAP leverage ratio decreased to 1.20x as of September 30, 2026 and our GAAP debt-to-equity ratio, net2 decreased to 1.17x as of September 30, 2026 (1.19x, on average, throughout the quarter ended September 30, 2026).
+On August 24, 2026, we redeemed $600.0 million in aggregate principal amount of our 2.500% notes due in 2026 (the “2026 Notes”) upon their maturity. The 2026 Notes were redeemed at 100% of their principal amount, plus the accrued and unpaid interest thereon.
+Portfolio and Asset Quality
+GC Advisors regularly assesses the risk profile of each of the Company’s investments and rates each of them based on an internal system developed by Golub Capital and its affiliates. This system is not generally accepted in our industry or used by our competitors. It is based on the following categories, which we refer to as GC Advisors’ internal performance ratings:
+Internal Performance Ratings
+Rating | Definition
+5 | Involves the least amount of risk in our portfolio. The borrower is performing above expectations, and the trends and risk factors are generally favorable.
+4 | Involves an acceptable level of risk that is similar to the risk at the time of origination. The borrower is generally performing as expected, and the risk factors are neutral to favorable.
+3 | Involves a borrower performing below expectations and indicates that the loan’s risk has increased somewhat since origination. The borrower could be out of compliance with debt covenants; however, loan payments are generally not past due.
+2 | Involves a borrower performing materially below expectations and indicates that the loan’s risk has increased materially since origination. In addition to the borrower being generally out of compliance with debt covenants, loan payments could be past due (but generally not more than 180 days past due).
+1 | Involves a borrower performing substantially below expectations and indicates that the loan’s risk has substantially increased since origination. Most or all of the debt covenants are out of compliance and payments are substantially delinquent. Loans rated 1 are not anticipated to be repaid in full and we will reduce the fair market value of the loan to the amount we anticipate will be recovered.
+Our internal performance ratings do not constitute any rating of investments by a nationally recognized statistical rating organization or represent or reflect any third-party assessment of any of our investments. For additional analysis on the Company's internal performance ratings as of September 30, 2026, please refer to the Quarter Ended 09.30.2026 Earnings Presentation available on the Investors Resources link on the homepage of the Company's website (www.golubcapitalbdc.com) under Events/Presentations.
+2 GAAP debt-to-equity, net is calculated as (a) total debt reduced by (i) cash, (ii) cash equivalents and foreign currencies and (iii) restricted cash held for partial repayment on notes of certain of our securitization vehicles past their reinvestment period term (if any) divided by (b) total net assets.
+Exhibit 99.1
+The following table shows the distribution of the Company’s investments on the 1 to 5 internal performance rating scale at fair value as of September 30, 2026 and June 30, 2026:
+September 30, 2026 | June 30, 2026
+Internal | Investments | Percentage of | Investments | Percentage of
+Performance | at Fair Value | Total | at Fair Value | Total
+Rating | (In thousands) | Investments | (In thousands) | Investments
+5 | $ | 121,012 | 1.5 | % | $ | 140,649 | 1.7 | %
+4 | 6,532,934 | 83.8 | 6,958,677 | 84.9
+3 | 949,784 | 12.2 | 869,177 | 10.6
+2 | 195,095 | 2.5 | 227,850 | 2.8
+1 | 382 | 0.0 | * | — | —
+Total | $ | 7,799,207 | 100.0 | % | $ | 8,196,353 | 100.0 | %
+* Represents an amount less than 0.1%
+Conference Call
+The Company will host an earnings conference call at 10:00 am (Eastern Time) on Wednesday, November 18, 2026 to discuss its quarterly financial results.
+All interested parties may register to participate in the conference call through the following URL: https://events.q4inc.com/analyst/927093304?pwd=j0nKNm6h.
+Participants are also invited to access the conference call by dialing one of the following numbers:
+Domestic: +1 (833) 461-5787
+International: +1 (585) 542-9983
+Participants should reference Golub Capital BDC, Inc. when prompted, or reference conference ID number 927 093 304. All callers are asked to dial in approximately 10-15 minutes prior to the call. An archived replay will be available via a link located on the Events & Presentations section of GBDC's website for one year.
+For a slide presentation that we intend to refer to on the earnings conference call, please visit the Investor Resources link on the homepage of our website (www.golubcapitalbdc.com) and click on the Quarter Ended 09.30.2026 Earnings Presentation under Events/Presentations.
+Exhibit 99.1
+Golub Capital BDC, Inc. and Subsidiaries
+Consolidated Statements of Financial Condition
+(In thousands, except share and per share data)
+September 30, 2026 | June 30, 2026
+Assets | (audited) | (unaudited)
+Investments, at fair value (cost of $8,052,958 and $8,377,113, respectively) | $ | 7,799,207 | $ | 8,196,353
+Cash and cash equivalents | 2,919 | 12,962
+Unrestricted foreign currencies (cost of $48,655 and $7,132, respectively) | 48,606 | 7,044
+Restricted cash and cash equivalents | 88,406 | 50,657
+Interest receivable | 53,839 | 60,888
+Receivable for investments | 8,523 | 5,197
+Other assets | 30,178 | 6,465
+Total Assets | $ | 8,031,678 | $ | 8,339,566
+Liabilities
+Debt | $ | 4,305,265 | $ | 4,561,799
+Less unamortized debt issuance costs | (25,421) | (24,247)
+Debt less unamortized debt issuance costs | 4,279,844 | 4,537,552
+Interest payable | 33,956 | 48,007
+Management and income incentive fees payable | 35,190 | 36,152
+Accounts payable and other liabilities | 53,511 | 12,986
+Total Liabilities | 4,402,501 | 4,634,697
+Net Assets
+Preferred stock, par value $0.001 per share, 1,000,000 shares authorized, zero shares issued and outstanding as of September 30, 2026 and June 30, 2026, respectively. | — | —
+Common stock, par value $0.001 per share, 500,000,000 shares authorized, 259,240,489 issued and outstanding as of September 30, 2026 and 260,033,889 issued and outstanding as of June 30, 2026. | 259 | 260
+Paid in capital in excess of par | 3,890,748 | 3,953,049
+Distributable earnings | (261,830) | (248,440)
+Total Net Assets | 3,629,177 | 3,704,869
+Total Liabilities and Total Net Assets | $ | 8,031,678 | $ | 8,339,566
+Number of common shares outstanding | 259,240,489 | 260,033,889
+Net asset value per common share | $ | 14.00 | $ | 14.25
+Exhibit 99.1
+Golub Capital BDC, Inc. and Subsidiaries
+Consolidated Statements of Operations
+(In thousands, except share and per share data)
+Three months ended
+September 30, 2026 | June 30, 2026
+(unaudited) | (unaudited)
+Investment income
+Interest income | $ | 183,507 | $ | 185,001
+Acquisition purchase price premium amortization | (2,163) | (2,256)
+Dividend income | 4,484 | 4,233
+Fee income | 948 | 752
+Total investment income | 186,776 | 187,730
+Expenses
+Interest and other debt financing expenses | 63,878 | 60,993
+Base management fee | 20,275 | 20,716
+Incentive fee | 14,941 | 15,436
+Administrative service fee | 2,882 | 3,107
+Professional fees | 1,887 | 1,889
+General and administrative expenses | 407 | 372
+Total expenses | 104,270 | 102,513
+Net investment income after tax | 82,506 | 85,217
+Net gain (loss) on investment transactions
+Net realized gain (loss) from:
+Investments | 1,779 | (11,071)
+Foreign currency transactions | 4,519 | (13,710)
+Forward currency contracts | 144 | —
+Net realized gain (loss) on investment transactions | 6,442 | (24,781)
+Net change in unrealized appreciation (depreciation) from:
+Investments | (64,884) | (13,547)
+Translation of assets and liabilities in foreign currencies | (4,053) | 3,171
+Forward currency contracts | 56 | 6,951
+Net change in unrealized appreciation (depreciation) on investment transactions | (68,881) | (3,425)
+Net gain (loss) on investment transactions | (62,439) | (28,206)
+(Provision) benefit for taxes on unrealized appreciation on investments | — | (2)
+Net increase (decrease) in net assets resulting from operations | $ | 20,067 | $ | 57,009
+Per Common Share Data
+Basic and diluted earnings per common share | $ | 0.08 | $ | 0.22
+Dividends and distributions declared per common share | $ | 0.33 | $ | 0.33
+Basic and diluted weighted average common shares outstanding | 259,655,552 | 260,446,791
+Exhibit 99.1
+ABOUT GOLUB CAPITAL BDC, INC.
+Golub Capital BDC, Inc. (“GBDC”) is an externally-managed, non-diversified closed-end management investment company that has elected to be treated as a business development company under the Investment Company Act of 1940. GBDC invests primarily in one stop and other senior secured loans to middle market companies that are often sponsored by private equity investors. GBDC’s investment activities are managed by its investment adviser, GC Advisors LLC, an affiliate of the Golub Capital LLC group of companies (“Golub Capital”).
+ABOUT GOLUB CAPITAL
+Golub Capital is a market-leading, award-winning direct lender and experienced private credit manager. The firm specializes in delivering reliable, creative and compelling financing solutions to companies backed by private equity sponsors. Golub Capital’s sponsor finance expertise also forms the foundation of its Broadly Syndicated Loan and Credit Opportunities investment programs. Golub Capital nurtures long-term, win-win partnerships that inspire repeat business from private equity sponsors and investors.
+As of October 1, 2026, Golub Capital had over 1,100 employees and over $95.0 billion of capital under management, a gross measure of invested capital including leverage. The firm has offices in North America, Europe, Asia and the Middle East. For more information, please visit golubcapital.com.
+FORWARD-LOOKING STATEMENTS
+This press release may contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Statements other than statements of historical facts included in this press release may constitute forward-looking statements and are not guarantees of future performance or results and involve a number of risks and uncertainties. Actual results may differ materially from those expressed or implied in the forward-looking statements as a result of a number of factors, including those described from time to time in filings with the Securities and Exchange Commission. Golub Capital BDC, Inc. undertakes no duty to update any forward-looking statement made herein. All forward-looking statements speak only as of the date of this press release.
+Contact:
+Christopher Ericson
+312-212-4036
+cericson@golubcapital.com
+Source: Golub Capital BDC, Inc.

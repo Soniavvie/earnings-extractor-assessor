@@ -915,5 +915,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1758766/000175876626000092/exhibit99-8xkx20261116xq32.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1758766/000175876626000092/0001758766-26-000092-index.htm",
     "saved_at": "2026-11-18T06:07:55+08:00"
+  },
+  {
+    "cik": "1476765",
+    "company": "GOLUB CAPITAL BDC, Inc.",
+    "accession": "0001476765-26-000083",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 20.067,
+        "unit": "USD millions",
+        "quote": "Net increase (decrease) in net assets resulting from operations | $ | 20,067"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Basic and diluted earnings per common share | $ | 0.08"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net investment income per share fell to $0.32 in the quarter from $0.33 in the June quarter.",
+        "quote": "Net investment income per share for the quarter ended September 30, 2026 was $0.32 as compared to $0.33 for the quarter ended June 30, 2026."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Earnings per share fell to $0.08 from $0.22 in the June quarter.",
+        "quote": "Earnings per share for the quarter ended September 30, 2026 was $0.08 as compared to $0.22 for the quarter ended June 30, 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "Net asset value per share fell to $14.00 at 30 September 2026 from $14.25 at 30 June 2026.",
+        "quote": "Net asset value (“NAV”) per share decreased to $14.00 at September 30, 2026 from $14.25 at June 30, 2026."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The highlights report lower income and NAV, put the losses down to some underperforming portfolio companies, and note the steady $0.33 distribution and buybacks."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1476765-0001476765-26-000083.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1476765/000147676526000083/gbdcfy202610-kearningsprxex.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1476765/000147676526000083/0001476765-26-000083-index.htm",
+    "saved_at": "2026-11-19T06:08:02+08:00"
+  },
+  {
+    "cik": "57131",
+    "company": "LA-Z-BOY INC",
+    "accession": "0000057131-26-000042",
+    "release_date": "2026-11-17",
+    "period_end": "2026-10-24",
+    "period_label": "quarter ended 24 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 526.057,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 526,057"
+      },
+      "operating_income": {
+        "value": 21.788,
+        "unit": "USD millions",
+        "quote": "Operating income | 21,788"
+      },
+      "net_income": {
+        "value": 17.777,
+        "unit": "USD millions",
+        "quote": "Net income attributable to La-Z-Boy Incorporated | $ | 17,777"
+      },
+      "diluted_eps": {
+        "value": 0.45,
+        "unit": "USD per share",
+        "quote": "Diluted net income attributable to La-Z-Boy Incorporated per share | $ | 0.45"
+      }
+    },
+    "guidance": {
+      "text": "La-Z-Boy expects third-quarter sales of $505-525 million and an adjusted operating margin of 4.0-5.5%.",
+      "quote": "We expect fiscal third quarter sales to be in the range of $505-525 million and adjusted operating margin(2) in the range of 4.0-5.5%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO is pleased with strong sales growth in the quarter and continued momentum in the business.",
+        "quote": "We were pleased with the strong sales growth we delivered in the quarter and the continued momentum in our business as we invest for the long-term and execute our Century Vision strategy."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO is confident the company can keep growing even in a dynamic environment.",
+        "quote": "I am confident in our ability to continue to grow our business even in this dynamic environment."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO's outlook reflects a measured view of the economy, uneven demand and continued investment and transition costs.",
+        "quote": "reflecting a measured view of the macroeconomic backdrop, uneven consumer demand, and our continued near-term strategic investments and transitional costs as we optimize our plant footprint and progress our distribution and home delivery transformation."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is pleased with sales growth and confident, while the CFO stresses a measured view, uneven demand and near-term costs."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/57131-0000057131-26-000042.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000042/fy27q2pressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000042/0000057131-26-000042-index.htm",
+    "saved_at": "2026-11-19T06:08:02+08:00"
   }
 ]
