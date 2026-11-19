@@ -1,0 +1,92 @@
+Company: Retension Pharmaceuticals, Inc. (CIK 2002988)
+Accession: 0001104659-26-129354
+Results released: 2026-11-18
+Press release: https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/rtsn-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/0001104659-26-129354-index.htm
+Saved: 2026-11-20T06:07:52+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 rtsn-ex99d1.htm EX-99.1
+Exhibit 99.1
+Retension Pharmaceuticals Reports Third Quarter 2026 Financial Results and Provides Corporate Update
+● | IPO completed in October 2026 to support the continued development of RTN-001 for uncontrolled and resistant hypertension, affecting ~30 million Americans
+● | Upsized IPO generated $51.75 million in gross proceeds
+● | Topline data for Phase 2b clinical trial expected in first half of 2027
+FALLS CHURCH, Va., November 18, 2026 (GLOBE NEWSWIRE) -- Retension Pharmaceuticals, Inc. (Nasdaq: RTSN) (“Retension” or the “Company”), a clinical-stage biopharmaceutical company focused on developing medicines for the treatment of hypertension and other cardiovascular diseases, today reported financial results for the third quarter ended September 30, 2026, and provided a corporate update.
+“Completing our initial public offering was an important step for Retension, and it provides the capital to complete our Phase 2b clinical trial of RTN-001 and prepare for Phase 3,” said Eric Keller, Chief Executive Officer of Retension Pharmaceuticals. “This year we have also built a leadership team with deep experience advancing cardiovascular and metabolic therapies from clinical development through approval, and formed a Scientific Advisory Board of leading investigators in hypertension, cardiology and nephrology. We remain focused on executing the Phase 2b trial, with initial data expected in the first half of 2027, as we work to bring a new treatment option to patients with uncontrolled and resistant hypertension.”
+Recent Corporate Highlights and Upcoming Milestones
+Completed initial public offering: In October 2026, Retension completed its upsized initial public offering of 4,312,500 shares of common stock at $12.00 per share, which includes the full exercise of the underwriters’ option to purchase 562,500 additional shares. The offering generated gross proceeds of $51.75 million and net proceeds of approximately $45.1 million. Retension’s common stock began trading on the Nasdaq Capital Market under the ticker symbol “RTSN” on October 9, 2026.
+Phase 2b clinical trial of RTN-001 ongoing: The randomized, placebo-controlled, dose-ranging trial is evaluating RTN-001 in approximately 280 patients with uncontrolled hypertension. The study's primary endpoint is the change from baseline in office-seated systolic blood pressure at Week 4 versus placebo. The trial will also inform dose selection for Phase 3. Topline data are expected in the first half of 2027.
+Strengthened executive leadership team:
+● | Alison D. Schecter, M.D., FACC, FCCP, Chief Medical Officer: Oversaw three hypertension registration trials at Mineralys Therapeutics
+● | Alex Schwartz, Chief Financial Officer: Joined from Ventyx Biosciences, where he led financial planning and investor relations
+● | LeAnne Bloedon, M.S., RD, Executive Vice President, Clinical Development and Operations: Former Head of Development at Esperion Therapeutics
+● | Kevin Schutz, PharmD, Vice President, Regulatory Affairs: Joined from Corxel Pharmaceuticals, where he served as Vice President, Global Regulatory Affairs
+● | Robert Wong, Vice President, Chief Accounting Officer: Joined from Save Mart, where he was Vice President of Accounting; previously Vice President, Chief Accounting Officer of Cytokinetics and Controller and Chief Accounting Officer of Genentech
+Added biopharma and cardiovascular leadership to the Board of Directors:
+● | Pavan Cheruvu, M.D., Director: Chief Executive Officer of Amanat Acquisition Corp.; former President and CEO of Bitterroot Bio and President, CEO, and Chief R&D Officer of Sio Gene Therapies; early member of the Roivant Sciences executive team
+Formed Scientific Advisory Board. Bringing together leading investigators in hypertension, cardiology and nephrology:
+● | Omar Al Dhaybi, M.D., MSc, FASN, Director, American Heart Association Comprehensive Hypertension Center, Mount Sinai Fuster Heart Hospital; Assistant Professor of Medicine, Icahn School of Medicine at Mount Sinai
+● | James L. Januzzi, M.D., Adolph Hutter Professor of Medicine, Harvard Medical School; Massachusetts General Hospital; Chief Scientific Officer, Baim Institute for Clinical Research
+● | Luke J. Laffin, M.D., Preventive Cardiology, Cleveland Clinic; Associate Professor of Medicine, Cleveland Clinic Lerner College of Medicine; Chair, Steering Committee for Retension’s Phase 2b trial
+● | Ian Wilkinson, M.D., Professor of Therapeutics and Director, Cambridge Clinical Trials Unit, University of Cambridge; President, British and Irish Hypertension Society
+● | Randall M. Zusman, M.D., Director, Division of Hypertension, Massachusetts General Hospital Heart Center; Associate Professor of Medicine, Harvard Medical School
+Third Quarter 2026 Financial Results
+● | Cash position: Cash and cash equivalents were $9.2 million as of September 30, 2026, compared to $18.9 million as of December 31, 2025. These amounts do not reflect the net proceeds of the IPO, which closed after quarter-end. Including net IPO proceeds of approximately $45.1 million, pro forma cash and cash equivalents as of September 30, 2026 were approximately $54.3 million.
+● | Research and development expenses: Research and development expenses were $5.0 million for the third quarter of 2026, compared to $1.4 million for the third quarter of 2025. The increase was primarily due to Phase 2b clinical trial costs.
+● | General and administrative expenses: General and administrative expenses were $1.0 million for the third quarter of 2026, compared to $0.3 million for the third quarter of 2025. The increase was primarily due to higher personnel costs.
+● | Net loss: Net loss was $5.9 million for the third quarter of 2026, compared to a net loss of $1.5 million for the third quarter of 2025 due to additional R&D and G&A expenses.
+About Retension Pharmaceuticals
+Retension Pharmaceuticals is a clinical-stage biopharmaceutical company focused on developing medicines for the treatment of hypertension and other cardiovascular diseases. The Company’s lead clinical candidate, RTN-001, is in development for patients with uncontrolled and resistant hypertension.
+About RTN-001
+Retension Pharmaceuticals is developing RTN-001, a cardiovascular-targeted, next-generation PDE5 inhibitor designed to directly enhance nitric oxide signaling in central arteries not adequately reached by first-generation PDE5 inhibitors, thereby addressing a core driver of hypertension. RTN-001 has been studied in multiple clinical trials totaling 265 subjects. RTN-001 has a demonstrated efficacy and safety profile in patients and healthy volunteers with clinically meaningful reductions in blood pressure. A Phase 2b trial of RTN-001 in hypertension is ongoing. RTN-001 is being developed under an exclusive world-wide license from Sanofi S.A.
+For more information, please see www.retensionpharmaceuticals.com.
+Special Note Regarding Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact contained in this press release, including, but not limited to, statements regarding the Company’s expected cash runway, the use of proceeds from its initial public offering, and the design, progress, timing and results of its Phase 2b clinical trial of RTN-001, and other statements regarding Retension’s future results of operations or financial condition, business strategy and plans, and objectives of management for future operations, are forward-looking statements. These forward-looking statements are based on Retension’s current expectations and assumptions about future events, which are inherently subject to uncertainties, risks and changes in circumstances that are difficult to predict, therefore you should not place undue reliance on these forward-looking statements. The words, including but not limited to, “anticipate,” “believe,” “can,” “contemplate,” “continue,” “could,” “design,” “estimate,” “expect,” “intend,” “may,” “might,” “objective,” “plan,” “potential,” “predict,” “project,” “shall,” “should,” “target,” “will,” or “would,” or the negative of these words or other similar terms or expressions are intended to identify these forward-looking statements. Retension’s actual results may differ materially from those expressed in, or implied by, such forward-looking statements due to a number of factors, including but not limited to, risks, uncertainties, assumptions and other factors described in the Company’s final prospectus filed with the U.S. Securities and Exchange Commission (“SEC”) on October 9, 2026 and its Quarterly Report on Form 10-Q for the quarter ended September 30, 2026, as well as other documents that may be filed by the Company from time to time with the SEC. Retension undertakes no obligation to update any forward-looking statements after the date of this press release or to conform such statements to actual results or revised expectations, except as required by law.
+Contact:
+Press and Investor Contact
+Alex Schwartz
+Chief Financial Officer
+investors@retensionpharmaceuticals.com
+RETENSION PHARMACEUTICALS, INC.
+Condensed Consolidated Statements of Operations (Unaudited)
+For the Three Months Ended | For the Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Operating Expenses
+Research & development | $ | 5,016,602 | $ | 1,365,256 | $ | 11,219,240 | $ | 2,542,254
+General and administrative | 990,759 | 299,574 | 2,574,495 | 1,231,791
+Total Operating Expenses | 6,007,361 | 1,664,830 | 13,793,735 | 3,774,045
+Loss from Operations | (6,007,361) | (1,664,830) | (13,793,735) | (3,774,045)
+Other Income (Expense)
+Exchange loss | — | — | (856) | —
+Interest income | 89,277 | 189,016 | 351,457 | 412,558
+Total Other Income | 89,277 | 189,016 | 350,601 | 412,558
+Net Loss | $ | (5,918,084) | $ | (1,475,814) | $ | (13,443,134) | $ | (3,361,487)
+Net loss per share – Basic and diluted | $ | (7.33) | $ | (1.83) | $ | (16.65) | $ | (4.17)
+Weighted-average common shares outstanding -Basic and diluted | 807,894 | 805,154 | 807,287 | 805,154
+Condensed Consolidated Balance Sheets
+December 31,
+September 30, 2026 | 2025
+(unaudited) | (As Restated)
+Assets
+Current Assets
+Cash and cash equivalents | $ | 9,190,083 | $ | 18,901,024
+Prepaid expenses and other current assets | 2,470,521 | 2,346,077
+Deferred offering costs | 2,487,892 | 198,060
+Total Current Assets | 14,148,496 | 21,445,161
+Total Assets | 14,148,496 | 21,445,161
+Liabilities, Preferred Stock and Stockholders’ Deficit
+Current Liabilities
+Accounts payable | 3,886,011 | 775,859
+Accrued expenses | 2,772,818 | 136,307
+Total Current Liabilities | 6,658,829 | 912,166
+Total Liabilities | 6,658,829 | 912,166
+Commitments and Contingencies
+Convertible Preferred Stock | 28,153,769 | 28,315,918
+Stockholders’ Deficit
+Common stock | 81 | 81
+Additional paid-in-capital | 1,094,140 | 532,185
+Accumulated deficit | (21,758,323) | (8,315,189)
+Total Stockholders’ Deficit | (20,664,102) | (7,782,923)
+Total Liabilities, Preferred Stock and Stockholders’ Deficit | $ | 14,148,496 | $ | 21,445,161

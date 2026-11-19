@@ -1030,5 +1030,130 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000042/fy27q2pressrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/57131/000005713126000042/0000057131-26-000042-index.htm",
     "saved_at": "2026-11-19T06:08:02+08:00"
+  },
+  {
+    "cik": "2002988",
+    "company": "Retension Pharmaceuticals, Inc.",
+    "accession": "0001104659-26-129354",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -6.007361,
+        "unit": "USD millions",
+        "quote": "Loss from Operations | (6,007,361)"
+      },
+      "net_income": {
+        "value": -5.918084,
+        "unit": "USD millions",
+        "quote": "Net Loss | $ | (5,918,084)"
+      },
+      "diluted_eps": {
+        "value": -7.33,
+        "unit": "USD per share",
+        "quote": "Net loss per share – Basic and diluted | $ | (7.33)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the IPO provides the capital to complete the Phase 2b trial of RTN-001 and prepare for Phase 3.",
+        "quote": "Completing our initial public offering was an important step for Retension, and it provides the capital to complete our Phase 2b clinical trial of RTN-001 and prepare for Phase 3"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says initial Phase 2b data are expected in the first half of 2027.",
+        "quote": "We remain focused on executing the Phase 2b trial, with initial data expected in the first half of 2027"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Research and development expenses rose mainly because of Phase 2b trial costs.",
+        "quote": "Research and development expenses were $5.0 million for the third quarter of 2026, compared to $1.4 million for the third quarter of 2025. The increase was primarily due to Phase 2b clinical trial costs."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the IPO an important step and says the company remains focused on the Phase 2b trial, naming no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2002988-0001104659-26-129354.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/rtsn-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/0001104659-26-129354-index.htm",
+    "saved_at": "2026-11-20T06:07:52+08:00"
+  },
+  {
+    "cik": "27419",
+    "company": "TARGET CORP",
+    "accession": "0000027419-26-000051",
+    "release_date": "2026-11-18",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 27067,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 27,067"
+      },
+      "operating_income": {
+        "value": 1672,
+        "unit": "USD millions",
+        "quote": "Operating income | 1,672"
+      },
+      "net_income": {
+        "value": 1211,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 1,211"
+      },
+      "diluted_eps": {
+        "value": 2.65,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 2.65"
+      }
+    },
+    "guidance": {
+      "text": "Target now expects full-year 2026 net sales growth of around 6 percent, one percentage point higher than its prior guidance range.",
+      "quote": "Full-year net sales growth in a range around 6 percent, one percentage point higher than the prior guidance range."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales grew 7.1 percent, with comparable sales up 5.6 percent on a 5.0 percent rise in comparable traffic.",
+        "quote": "Third quarter net sales grew 7.1 percent over last year, with comparable sales growth of 5.6 percent driven by a 5.0 percent increase in comparable traffic."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Tariff refunds added $0.50 to EPS; without them GAAP EPS would have risen 42 percent.",
+        "quote": "Third quarter 2026 results included tariff refund2 benefits of $0.50. Excluding tariff refunds, GAAP EPS would have increased 42 percent"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the company's investments are building on one another and creating momentum.",
+        "quote": "Our investments are building on one another—creating momentum in our business and further defining our unique lane in retail."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Month-to-date November net sales are in line with guidance and accelerating from October.",
+        "quote": "Month-to-date, November net sales are in line with the Company's guidance and expectations, accelerating from October sales trends."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued progress and momentum, and the company raised its full-year sales guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/27419-0000027419-26-000051.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/a2026q3ex-99.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/0000027419-26-000051-index.htm",
+    "saved_at": "2026-11-20T06:07:52+08:00"
   }
 ]
