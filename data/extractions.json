@@ -1155,5 +1155,96 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/a2026q3ex-99.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/0000027419-26-000051-index.htm",
     "saved_at": "2026-11-20T06:07:52+08:00"
+  },
+  {
+    "cik": "896878",
+    "company": "INTUIT INC.",
+    "accession": "0000896878-26-000043",
+    "release_date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 4354,
+        "unit": "USD millions",
+        "quote": "Total net revenue | 4,354"
+      },
+      "operating_income": {
+        "value": 868,
+        "unit": "USD millions",
+        "quote": "Operating income | 868"
+      },
+      "net_income": {
+        "value": 695,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 695"
+      },
+      "diluted_eps": {
+        "value": 2.59,
+        "unit": "USD per share",
+        "quote": "Diluted net income per share | $ | 2.59"
+      }
+    },
+    "guidance": {
+      "text": "For the second quarter of fiscal 2027, Intuit expects total revenue of $4,931 million to $4,954 million, growth of 6% to 7%.",
+      "quote": "Total Revenue | $4,931 to $4,954 | 6% to 7%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the first quarter was solid, with results above the top end of guidance.",
+        "quote": "We delivered a solid first quarter, with results above the top end of our guidance"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO says the company remains focused on durable long-term revenue growth, expanding margins and larger capital returns.",
+        "quote": "We remain focused on building the foundation for durable long-term revenue growth while expanding margins and increasing capital returns to shareholders."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "GAAP operating income rose 63 percent to $868 million.",
+        "quote": "GAAP operating income increased 63 percent to $868 million."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Intuit reiterated its full-year GAAP and non-GAAP operating income and earnings per share guidance.",
+        "quote": "The company reiterated its full-year GAAP and non-GAAP operating income and earnings per share guidance."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter solid and above the top end of guidance, and the CFO speaks of progress and disciplined execution."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/896878-0000896878-26-000043.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/fy27q1earningspressrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/0000896878-26-000043-index.htm",
+    "saved_at": "2026-11-21T06:08:11+08:00"
+  },
+  {
+    "cik": "1724009",
+    "company": "PermRock Royalty Trust",
+    "accession": "0001193125-26-467918",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "monthly distribution based on September 2026 production",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1724009-0001193125-26-467918.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/0001193125-26-467918-index.htm",
+    "saved_at": "2026-11-21T06:08:11+08:00"
   }
 ]
