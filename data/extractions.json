@@ -1246,5 +1246,130 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/0001193125-26-467918-index.htm",
     "saved_at": "2026-11-21T06:08:11+08:00"
+  },
+  {
+    "cik": "67887",
+    "company": "MOOG INC.",
+    "accession": "0001628280-26-075170",
+    "release_date": "2026-11-20",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1254.101,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,254,101"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 107.206,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 107,206"
+      },
+      "diluted_eps": {
+        "value": 3.35,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 3.35"
+      }
+    },
+    "guidance": {
+      "text": "Moog guides to net sales of $4,950 million for fiscal 2027, against $4,523 million in fiscal 2026.",
+      "quote": "Net sales | $ | 4,950 | $ | 4,523"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says the fourth quarter had record sales in each segment, a robust operating margin and strong cash generation.",
+        "quote": "Our fourth quarter was marked by record sales in each of our segments, a robust operating margin and strong cash generation"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO expects record sales, stronger operating performance and meaningful operating cash flows in fiscal 2027.",
+        "quote": "In fiscal year 2027, we'll continue to build upon our financial strength with record sales, stronger operating performance and meaningful operating cash flows."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO calls fiscal 2026 a milestone year with record results that met the goals set at the 2023 Investor Day.",
+        "quote": "Fiscal 2026 was a milestone year for the company. We delivered record results and achieved the goals we established at our 2023 Investor Day"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO describe record results and a strong finish, and expect record sales in fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/67887-0001628280-26-075170.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/0001628280-26-075170-index.htm",
+    "saved_at": "2026-11-22T06:08:22+08:00"
+  },
+  {
+    "cik": "63296",
+    "company": "MATTHEWS INTERNATIONAL CORP",
+    "accession": "0000063296-26-000118",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 256.705,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 256,705"
+      },
+      "operating_income": {
+        "value": -8.533,
+        "unit": "USD millions",
+        "quote": "Operating (loss) profit | (8,533)"
+      },
+      "net_income": {
+        "value": -19.503,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (19,503)"
+      },
+      "diluted_eps": {
+        "value": -0.62,
+        "unit": "USD per share",
+        "quote": "Loss per share -- diluted | $ | (0.62)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fourth-quarter results were at the high end of expectations, with Memorialization sales up and product identification sales up 14%.",
+        "quote": "We finished 2026 strongly, with 4th quarter consolidated results at the high end of our expectations. Sales for the Memorialization segment outperformed the same quarter a year ago"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says corporate and other non-operating costs declined in the quarter.",
+        "quote": "corporate and other non-operating costs declined, and product identification sales grew 14%"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the engineering business continues to face customer delays related to ongoing litigation.",
+        "quote": "Our engineering business continues to face customer delays related to ongoing litigation."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO cites economic uncertainty and litigation and gives no full-year fiscal 2027 guidance.",
+        "quote": "As we enter fiscal 2027, economic uncertainty and litigation affecting our engineering business remain significant considerations."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO says the quarter finished strongly but names economic uncertainty and litigation, and gives no fiscal 2027 guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/63296-0000063296-26-000118.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/ex991_4q2026earningspr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/0000063296-26-000118-index.htm",
+    "saved_at": "2026-11-22T06:08:22+08:00"
   }
 ]
