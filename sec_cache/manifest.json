@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T10:09:38+08:00",
+  "fetched_at": "2026-11-21T10:46:53+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,7 +16,7 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
       "ok": true,
-      "detail": "HTTP 200, 31 KB in 517 ms"
+      "detail": "HTTP 200, 31 KB in 182 ms"
     },
     {
       "name": "Alphabet filings list",
@@ -28,79 +28,79 @@
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 45 ms"
+      "detail": "HTTP 200, 156 KB in 22 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 39 ms"
+      "detail": "HTTP 200, 153 KB in 23 ms"
     },
     {
       "name": "MOOG INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 125 ms"
+      "detail": "HTTP 200, 2 KB in 62 ms"
     },
     {
       "name": "MOOG INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
       "ok": true,
-      "detail": "HTTP 200, 445 KB in 70 ms"
+      "detail": "HTTP 200, 445 KB in 196 ms"
     },
     {
       "name": "MATTHEWS INTERNATIONAL CORP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 105 ms"
+      "detail": "HTTP 200, 3 KB in 65 ms"
     },
     {
       "name": "MATTHEWS INTERNATIONAL CORP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000118/ex991_4q2026earningspr.htm",
       "ok": true,
-      "detail": "HTTP 200, 348 KB in 76 ms"
+      "detail": "HTTP 200, 348 KB in 54 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 88 ms"
+      "detail": "HTTP 200, 3,174 KB in 51 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 85 ms"
+      "detail": "HTTP 200, 4,447 KB in 41 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 67 ms"
+      "detail": "HTTP 200, 2,745 KB in 34 ms"
     },
     {
       "name": "MOOG INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000067887.json",
       "ok": true,
-      "detail": "HTTP 200, 4,053 KB in 105 ms"
+      "detail": "HTTP 200, 4,053 KB in 245 ms"
     },
     {
       "name": "MATTHEWS INTERNATIONAL CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063296.json",
       "ok": true,
-      "detail": "HTTP 200, 3,498 KB in 617 ms"
+      "detail": "HTTP 200, 3,498 KB in 233 ms"
     },
     {
       "name": "TARGET CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000027419.json",
       "ok": true,
-      "detail": "HTTP 200, 3,673 KB in 114 ms"
+      "detail": "HTTP 200, 3,673 KB in 225 ms"
     },
     {
       "name": "INTUIT INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000896878.json",
       "ok": true,
-      "detail": "HTTP 200, 4,359 KB in 571 ms"
+      "detail": "HTTP 200, 4,359 KB in 388 ms"
     },
     {
       "name": "PermRock Royalty Trust company facts",
