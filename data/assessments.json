@@ -10232,5 +10232,610 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-11-23T06:37:33+08:00"
+  },
+  {
+    "accession": "0000027419-26-000051",
+    "cik": "27419",
+    "company": "TARGET CORP",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 27,067, but the filed figures could not be read today (data.sec.gov blocked, 403; sec_cache/ old), and no 10-Q has been found yet."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 1,672, but the filed figures could not be read today (data.sec.gov blocked, 403; sec_cache/ old), and no 10-Q has been found yet."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 1,211, but the filed figures could not be read today (data.sec.gov blocked, 403; sec_cache/ old), and no 10-Q has been found yet."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 2.65, but the filed figures could not be read today (data.sec.gov blocked, 403; sec_cache/ old), and no 10-Q has been found yet."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (27,067; 1,672; 1,211; 2.65). The 10-Q check is still to come, as the filed figures could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there, and the full-year guidance (net sales growth around 6%) is given with its quote."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The analyst can use the extract as it stands: every figure is quoted from the release table, and the tariff refund effect on EPS ($0.50) is captured in the claims."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "27,067 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "1,672 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "1,211 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "2.65 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's own table, as the fundamentals have no year-ago quarter: net sales 27,067 against 25,270 a year ago, up 7.1%. Comparable sales of 5.6% are not in the fundamentals."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release table: reported diluted EPS 2.65 against 1.51, up 74.8%. Less the stated $0.50 tariff refund benefit, EPS is 2.15, up 42.4% on 1.51, as the claim says."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Release table: sales up 7.1% in the quarter against 6.4% for nine months; operating income 1,672 against 948 (up 76.4%), or 1,371 without the $301 million tariff refunds (up 44.6%)."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "An outlook claim. November sales cannot be checked, but it is consistent with the latest trend: quarter sales up 7.1% against 6.4% for nine months, and full-year growth guidance raised to around 6%."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release table: sales up 7.1%, operating income up 76.4% (44.6% without tariff refunds), diluted EPS 2.65 against 1.51, and full-year sales guidance raised by one point."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 27067,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 1672,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 1211,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 2.65,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 6.1772638268001625,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 4.474082831492223,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales grew 7.1 percent, with comparable sales up 5.6 percent on a 5.0 percent rise in comparable traffic.",
+        "quote": "Third quarter net sales grew 7.1 percent over last year, with comparable sales growth of 5.6 percent driven by a 5.0 percent increase in comparable traffic.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Tariff refunds added $0.50 to EPS; without them GAAP EPS would have risen 42 percent.",
+        "quote": "Third quarter 2026 results included tariff refund2 benefits of $0.50. Excluding tariff refunds, GAAP EPS would have increased 42 percent",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the company's investments are building on one another and creating momentum.",
+        "quote": "Our investments are building on one another—creating momentum in our business and further defining our unique lane in retail.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Month-to-date November net sales are in line with guidance and accelerating from October.",
+        "quote": "Month-to-date, November net sales are in line with the Company's guidance and expectations, accelerating from October sales trends.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of continued progress and momentum, and the company raised its full-year sales guidance."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-24T06:38:04+08:00"
+  },
+  {
+    "accession": "0001193125-26-467918",
+    "cik": "1724009",
+    "company": "PermRock Royalty Trust",
+    "period_end": "2026-09-30",
+    "period_label": "monthly distribution based on September 2026 production",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty (null). The release is a monthly distribution notice and gives no revenue figure."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty (null). The release gives no operating income."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty (null). The release gives no net income, only the distribution of $103,164.56."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty (null). The release gives no EPS, only a distribution of $0.008479 per Trust Unit."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted, and rightly so: the notice gives none of the four figures, so nothing is wrong. There is no 10-Q check to come for these figures."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are empty, but the release gives none of them, so that is not a fault. The release gives no guidance."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "The extract has no figures to act on. It marks the filing as a distribution notice ($0.008479 per unit), but the analyst must open the release for any detail."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {},
+    "tone": null,
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [],
+    "watcher_tone": null,
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-24T06:38:04+08:00"
+  },
+  {
+    "accession": "0000063296-26-000118",
+    "cik": "63296",
+    "company": "MATTHEWS INTERNATIONAL CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds 256,705 thousand (256.705 million), but the filed figures could not be read today (data.sec.gov blocked, 403; sec_cache/ old)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds (8,533) thousand (-8.533 million), but the filed figures could not be read today (data.sec.gov blocked, 403; sec_cache/ old)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds (19,503) thousand (-19.503 million), but the filed figures could not be read today (data.sec.gov blocked, 403; sec_cache/ old)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The quote is in the release and holds (0.62), but the filed figures could not be read today (data.sec.gov blocked, 403). A September quarter is usually reported in the 10-K."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (256,705; (8,533); (19,503); (0.62)), in USD thousands. The filed check is still to come, as the filed figures could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are there. The release gives no fiscal 2027 guidance, so none is missing."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "The extract can be used as it stands: each figure is quoted from the income statement, with the USD thousands converted correctly to millions."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "256.705 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": "-8.533 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "net_income": {
+        "extracted": "-19.503 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "-0.62 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "does not match",
+        "reason": "Release table: Memorialization sales rose to 214,614 from 209,680 (up 2.4%), but 'finished strongly' leaves out that consolidated sales fell 19.5%, to 256,705 from 318,841 thousand, partly after divestitures."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release segment table: Corporate and Non-Operating adjusted EBITDA was (10,116) against (11,988) thousand a year ago, a smaller cost."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "The release does not report the engineering business on its own. Industrial Technologies sales fell to 42,091 from 92,960 thousand, but that also reflects divestitures."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "An outlook claim, consistent with the latest trend: consolidated sales fell 19.5% on a year ago and the quarter shows an operating loss of 8,533 and a net loss of 19,503 thousand."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release table: losses narrowed (operating loss 8,533 against 11,360; net loss 19,503 against 27,470 thousand), while sales fell 19.5% and no guidance is given. A balanced reading fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 256.705,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -8.533,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -19.503,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -0.62,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -3.324049005667985,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -7.597436746459945,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fourth-quarter results were at the high end of expectations, with Memorialization sales up and product identification sales up 14%.",
+        "quote": "We finished 2026 strongly, with 4th quarter consolidated results at the high end of our expectations. Sales for the Memorialization segment outperformed the same quarter a year ago",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says corporate and other non-operating costs declined in the quarter.",
+        "quote": "corporate and other non-operating costs declined, and product identification sales grew 14%",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the engineering business continues to face customer delays related to ongoing litigation.",
+        "quote": "Our engineering business continues to face customer delays related to ongoing litigation.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO cites economic uncertainty and litigation and gives no full-year fiscal 2027 guidance.",
+        "quote": "As we enter fiscal 2027, economic uncertainty and litigation affecting our engineering business remain significant considerations.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO says the quarter finished strongly but names economic uncertainty and litigation, and gives no fiscal 2027 guidance."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-24T06:38:04+08:00"
   }
 ]

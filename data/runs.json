@@ -3974,5 +3974,99 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-24T06:38:04+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-24-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 3,
+      "failures": [
+        {
+          "name": "TARGET CORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "PermRock Royalty Trust company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        },
+        {
+          "name": "MATTHEWS INTERNATIONAL CORP company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 3,
+      "checked": 3,
+      "rechecks": 3,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "27419",
+        "company": "TARGET CORP",
+        "accession": "0000027419-26-000051",
+        "period_label": "quarter ended 31 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 4,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1724009",
+        "company": "PermRock Royalty Trust",
+        "accession": "0001193125-26-467918",
+        "period_label": "monthly distribution based on September 2026 production",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 3
+        }
+      },
+      {
+        "cik": "63296",
+        "company": "MATTHEWS INTERNATIONAL CORP",
+        "accession": "0000063296-26-000118",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 3 extractions: 0 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-24T06:08:18+08:00",
+      "watch_brief": "briefs/2026-11-24-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
